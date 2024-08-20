@@ -1,0 +1,2410 @@
+Suvestinė redakcija nuo 2024-03-02
+
+ 
+
+Įsakymas paskelbtas: Žin. 1998, Nr. 105-2927, i. k. 0982250ISAK00000687
+
+ 
+
+Nauja redakcija nuo 2016-11-25:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ 
+
+ĮSAKYMAS
+
+DĖL MEDICININĖS APSKAITOS DOKUMENTŲ FORMŲ TVIRTINIMO
+
+ 
+
+1998 m. lapkričio 26 d. Nr. 687
+
+Vilnius
+
+ 
+
+ 
+
+
+Atsižvelgdamas į Privalomų sveikatos statistikos apskaitos ir kitų tipinių formų, pildomų sveikatos priežiūros įstaigose, sąrašą ir saugojimo terminus, patvirtintus Lietuvos Respublikos sveikatos apsaugos ministro 1999 m. lapkričio 29 d. įsakymu Nr. 515 „Dėl Sveikatos priežiūros įstaigų veiklos apskaitos ir atskaitomybės tvarkos“:
+
+
+1.   T v i r t i n u pridedamas:
+
+
+1.1.  formą Nr. 066/a-LK „Stacionare gydomo asmens statistinė kortelė“. Saugojimo terminas – 5 metai. Formatas – A4;
+
+
+1.2.  formą 025/a-LK „Asmens ambulatorinio gydymo statistinė kortelė“. Saugojimo terminas – 5 metai;
+
+
+1.3.  Formos Nr. 066/a-LK „Stacionare gydomo asmens statistinė kortelė“ pildymo, pateikimo ir tikslinimo taisykles;
+
+
+1.4.  Formos Nr. 025/a-LK „Asmens ambulatorinio gydymo statistinė kortelė“ pildymo, pateikimo ir tikslinimo taisykles.
+
+
+2.   P a v e d u įsakymo vykdymo kontrolę viceministrui pagal veiklos sritį.
+
+
+ 
+
+ 
+
+ 
+
+SVEIKATOS APSAUGOS MINISTRAS                                       MINDAUGAS STANKEVIČIUS
+
+ 
+
+
+Forma. Neteko galios nuo 2013-01-23
+
+Formos naikinimas:
+
+Nr. V-39, 2013-01-15, Žin. 2013, Nr. 8-336 (2013-01-22), i. k. 1132250ISAK0000V-39
+
+ 
+
+
+ 
+
+PATVIRTINTA
+
+Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymu Nr. 687
+
+(Lietuvos Respublikos sveikatos apsaugos ministro 2013 m. gegužės 13 d. įsakymo Nr. V-483 redakcija)
+
+ 
+
+FORMOS Nr. 066/A-LK „STACIONARE GYDOMO ASMENS STATISTINĖ KORTELĖ“ PILDYMO, PATEIKIMO IR TIKSLINIMO TAISYKLĖS
+
+ 
+
+
+I SKYRIUS
+BENDROSIOS NUOSTATOS
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+1. Formos Nr. 066/a-LK „Stacionare gydomo asmens statistinė kortelė“ pildymo, pateikimo ir tikslinimo taisyklėse (toliau – Taisyklėse) nustatyta stacionare gydomo asmens statistinės kortelės (toliau – kortelė) pildymo, pateikimo ir tikslinimo tvarka.
+
+
+2. Taisyklės parengtos vadovaujantis Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 10 straipsnio 11 punktu ir 16 straipsniu, Lietuvos Respublikos sveikatos draudimo įstatymo 9 straipsniu, 1971 m. birželio 14 d. Tarybos reglamentu (EEB) Nr. 1408/71 dėl socialinės apsaugos sistemų taikymo pagal darbo sutartį dirbantiems asmenims, savarankiškai dirbantiems asmenims ir jų šeimos nariams, judantiems Bendrijoje (OL 2004 m. specialusis leidimas, 5 skyrius, 1 tomas, p. 83), 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 883/2004 dėl socialinės apsaugos sistemų koordinavimo (OL 2004 m. specialusis leidimas, 5 skyrius, 5 tomas, p. 72) (toliau – Reglamentas (EB) Nr. 883/2004) ir kitais teisės aktais.
+
+Punkto pakeitimai:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+3. Pildoma kiekvieno hospitalizuoto paciento, kuriam teikiamos dienos chirurgijos ir (ar) stacionarinio gydymo paslaugos, kortelė. Už kortelės duomenų teisingumą atsako asmens sveikatos priežiūros įstaiga.
+
+
+4. Stacionare teikiamos paslaugos pagal jų išlaidų apmokėjimą skirstomos į šias gydymo rūšis:
+
+
+4.1. aktyvusis gydymas – dienos chirurgijos ir stacionarinės asmens sveikatos priežiūros paslaugos (toliau – stacionarinės paslaugos), išskyrus transplantacijos paslaugas, teikiamos pacientams dėl ūmios ligos, lėtinės ligos paūmėjimo ar sužalojimo, kai reikalingas ištyrimas ir (ar) aktyvus medikamentinis, ir (ar) chirurginis gydymas, kuris negali būti taikomas ambulatorinėmis sąlygomis. Aktyviojo gydymo paslaugos grupuojamos pagal giminingų diagnozių grupių (angl. diagnosis-related group – DRG) metodą (toliau – DRG metodas), išskyrus 4.2 papunktyje nurodytas paslaugas;
+
+Punkto pakeitimai:
+
+Nr. V-705, 2014-06-16, paskelbta TAR 2014-06-18, i. k. 2014-07740
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+4.2. ilgalaikis gydymas – stacionarinės paslaugos, teikiamos lėtinėmis ligomis sergantiems pacientams, kai reikalingas ilgai (dažniausiai ilgiau nei mėnesį) trunkantis etiopatogenezinis ir (ar) palaikomasis gydymas, ir (ar) simptominis gydymas, ir (ar) slauga. Ilgalaikio gydymo paslaugų pavyzdžiai: palaikomojo gydymo ir slaugos, paliatyviosios pagalbos, tuberkuliozės, specialiosios psichiatrijos, psichikos ligų ilgalaikio gydymo paslaugos ir pan. Ilgalaikio gydymo paslaugos negrupuojamos pagal DRG metodą;
+
+
+4.3. stacionarinė medicininė reabilitacija – stacionare teikiamos medicininės reabilitacijos paslaugos (išskyrus paslaugas, teikiamas pradinės reabilitacijos etapu), apmokamos teisės aktų nustatyta tvarka. Medicininės reabilitacijos paslaugos grupuojamos pagal DRG metodą.
+
+Punkto pakeitimai:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+ 
+
+
+4.4. transplantacija – stacionarinio gydymo paslauga, teikiama ir apmokama teisės aktų nustatyta tvarka. Transplantacijos paslaugos grupuojamos pagal DRG metodą.
+
+
+5. Paciento gydymo laikotarpis, kuriuo teikiamos vienos rūšies gydymo paslaugos ir už kurį teritorinės ligonių kasos atsiskaito su asmens sveikatos priežiūros įstaigomis, vadinamas gydymo etapu. Jei teikiamos ilgalaikio gydymo paslaugos, pasibaigus kalendoriniam mėnesiui teritorinė ligonių kasa už jį atsiskaito kaip už vieną gydymo etapą (jei pasibaigus kalendoriniam mėnesiui paciento ilgalaikis gydymas tęsiamas, praėjęs kalendorinis mėnuo vadinamas išankstinio mokėjimo etapu).
+
+
+6. Kortelė apima statistinius ir ekonominius duomenis, būtinus statistinei analizei atlikti, gydymo kainai apskaičiuoti ir ataskaitoms sudaryti. Kortelę sudaro 2 pagrindinės dalys:
+
+
+6.1. pirmojoje dalyje „Paciento gydymo duomenys“ pateikiami asmens sveikatos priežiūros įstaigos ir kortelės duomenys, bendrieji hospitalizuojamo asmens duomenys, draudimo duomenys, nurodoma, ar asmuo atvyko pagal siuntimą. Šios dalies lentelėje pateikiami gydymo skyriuje ir perkėlimo iš skyriaus į skyrių duomenys, nurodomas gydymo etapo numeris (pirmojoje dalyje nurodomi visi gydymo etapai). Taip pat šioje dalyje pateikiami išrašymo duomenys ir nurodoma teritorinės ligonių kasos mokama už suteiktas paslaugas suma (eurais);
+
+Punkto pakeitimai:
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+ 
+
+
+6.2. antrojoje dalyje „Etapo duomenys“ pateikiami tik vieno gydymo etapo duomenys. Šioje dalyje nurodomas etapo numeris, etapo pradžios ir pabaigos datos, kai kurie paciento duomenys (svoris, amžius ir kt.), klinikiniai ir ekonominiai duomenys. Jei prasideda kitas gydymo etapas, pradedama pildyti nauja kortelės dalis „Etapo duomenys“. Vienai kortelei priskiriama tiek dalių „Etapo duomenys“, kiek yra gydymo etapų.
+
+ 
+
+
+II SKYRIUS
+KORTELĖS PIRMOSIOS DALIES „PACIENTO DUOMENYS“ PILDYMAS
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+7. 1 A, 1 B, 2 A, 2 B, 2 C, 3, 4 ir 5 langeliai bei dalis „Bendrieji asmens duomenys“ pildomi priėmimo skyriuje hospitalizuojant pacientą. Dalis „Bendrieji asmens duomenys“ pildoma remiantis paciento pateikta informacija ir dokumentais. Šiuos duomenis gali tikslinti pacientą gydantis ir (ar) išrašantis iš stacionaro gydytojas arba akušeris.
+
+Punkto pakeitimai:
+
+Nr. V-393, 2017-04-06, paskelbta TAR 2017-04-10, i. k. 2017-06085
+
+ 
+
+
+8. 1 A langelyje „ASPĮ“ turi būti įrašomas asmens sveikatos priežiūros įstaigos (toliau – ASPĮ) ar jos padalinio, į kurį pacientas hospitalizuojamas, kodas pagal Juridinių asmenų registrą. 1 B langelyje turi būti įrašomas ASPĮ ar jos padalinio, į kurį pacientas hospitalizuojamas, pavadinimas ir adresas.
+
+
+9. 2 A langelis „Pirminė“ turi būti žymimas (?) pirmą kartą pildant hospitalizuojamo paciento kortelę. 2 B langelis „Tikslinamoji“ žymimas (?) tikslinant pirminę kortelę. 2 C langelis „Anuliuojamoji“ žymimas (?) anuliuojant pirminę kortelę.
+
+
+10. 3 langelis „Tikslinamos pirminės kortelės Nr.“ pildomas tikslinant arba anuliuojant kortelę: įrašomas tikslinamos arba anuliuojamos pirminės kortelės numeris.
+
+
+11. Kortelei numeris suteikiamas centralizuotai, kai pažymimas 2 A langelis „Pirminė“. Kortelės numeris nurodomas 4 langelyje „Kortelės Nr.“. Šio numerio 4 skaitmenys atitinka metus, kuriais pacientas hospitalizuojamas, 6 skaitmenys atitinka Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos (toliau – VLK) centralizuotai ASPĮ suteiktą nuoseklųjį kortelės numerį, dar 2 skaitmenys rašomi, jei kortelė tikslinama arba anuliuojama. Jei kortelė tikslinama pirmą kartą, rašomi skaitmenys 01, jei kortelė tikslinama antrą kartą – 02 ir t. t. Jei kortelė anuliuojama, rašomi skaitmenys 99.
+
+
+12. 5 langelyje „Ligos istorijos numeris“ turi būti įrašomas paciento ligos istorijos numeris. Rekomenduojama, kad ligos istorijos numeris sutaptų su kortelės numeriu, nurodytu 4 langelyje.
+
+
+13. Dalis „Bendrieji asmens duomenys“ pildoma taip:
+
+
+13.1. 6 langelyje „Asmens kodas“ rašomas asmens kodas pagal asmens tapatybę patvirtinantį dokumentą. Išimtims, kai šis langelis nepildomas, priskiriama:
+
+
+13.1.1. kūdikis iki 3 mėnesių, neturintis asmens identifikavimo dokumentų, – šiuo atveju 7 langelyje nurodomas įgaliotojo asmens (motinos) kodas;
+
+
+13.1.2. užsienietis, kuriam nesuteiktas asmens kodas Lietuvos Respublikos gyventojų registre (toliau – Gyventojų registras);
+
+
+13.1.3. neidentifikuotas asmuo;
+
+
+13.2. 8 langelyje „DIK“ įrašomas draudžiamojo identifikavimo kodas pagal Lietuvos Respublikos draudžiamųjų privalomuoju sveikatos draudimu registrą (toliau – Draudžiamųjų registras). Langelis turi būti pildomas nuo Draudžiamųjų registro veiklos pradžios;
+
+
+13.3. 9 langelis „Vardas“ ir 10 langelis „Pavardė“ pildomas pagal asmens tapatybę patvirtinančių dokumentų duomenis ir turi sutapti su Gyventojų registro duomenimis. Išimtims priskiriamas:
+
+
+13.3.1. kūdikis iki 3 mėnesių, neturintis asmens identifikavimo dokumentų, – vardas ir pavardė nenurodomi arba įrašomas jį lydinčių asmenų nurodytas vardas ir pavardė;
+
+
+13.3.2. Gyventojų registre neįregistruotas užsienietis – vardas ir pavardė nurodomi pagal asmens tapatybę patvirtinančių dokumentų duomenis;
+
+
+13.3.3. neidentifikuotas asmuo – langelis nepildomas arba įrašomas asmens nurodytas vardas ir pavardė, arba jį lydinčių asmenų nurodytas asmens vardas ir pavardė;
+
+
+13.4. 11 langelyje „Gimimo data“ pagal asmens tapatybę patvirtinančių dokumentų duomenis įrašomi paciento gimimo metai, mėnuo ir diena. 11 langelyje nurodyta gimimo data turi sutapti su Gyventojų registre nurodyta gimimo data. Neregistruotų naujagimių gimimo data įrašoma pagal medicinos dokumentuose nurodytą gimimo datą. Neidentifikuoto asmens gimimo data nenurodoma arba įrašoma jo paties nurodyta gimimo data, arba lydinčiųjų asmenų nurodyta jo gimimo data;
+
+
+13.5. 12 langelyje „Lytis“ nurodoma paciento lytis pagal Gyventojų registro duomenis. Šio langelio duomenis prireikus galima koreguoti, įrašant vieną iš keturių skaitmenų: 1 – vyras, 2 – moteris, 3 – hermafroditas ar neaiškios lyties, 9 – nežinoma. Langelis pildomas pagal asmens tapatybę patvirtinančių dokumentų arba medicinos dokumentų duomenis;
+
+
+13.6. 13 langelis „Nuolatinis LR gyventojas“ žymimas (?), jei pacientas yra nuolatinis Lietuvos Respublikos gyventojas pagal Gyventojų registrą;
+
+
+13.7. 14 langelyje „Telefono numeris“ įrašomas paciento nurodytas telefono numeris.
+
+
+13.8. langas „Adresas“ skirtas paciento gyvenamosios vietos adresui nurodyti: 15 A langelyje „valstybė“ nurodoma valstybė, kurioje asmuo gyvena; jei pacientas gyvena kaime, žymimas (?) 15 B langelis „kaimas“; jei pacientas gyvena mieste, žymimas (?) 15 C langelis „miestas“; 15 D langelyje „savivaldybė“ įrašomas savivaldybės kodas; 15 E langelyje nurodoma gatvė, namo numeris, buto numeris, kaimo, miesto arba rajono pavadinimas, 15 F langelyje „Elektroninio pašto adresas“ nurodomas paciento elektroninio pašto adresas. Jei pildoma užsieniečio, neregistruoto Gyventojų registre, kortelė, nurodoma gyvenamosios vietos valstybė. Jei Gyventojų registre nurodyta gyvenamoji vieta nesutampa su asmens nurodyta gyvenamąja vieta, adreso duomenys koreguojami, nurodant faktinį gyvenamosios vietos adresą;
+
+
+13.9. langas „PAASPĮ“ skirtas pirminės ambulatorinės asmens sveikatos priežiūros įstaigos (toliau – PAASPĮ), prie kurios pacientas prisirašęs, ar jos padalinio, jei pacientas prie jo prisirašęs, duomenims nurodyti: 16 A langelyje įrašomas PAASPĮ ar jos padalinio kodas pagal Juridinių asmenų registrą, 16 B langelyje – PAASPĮ ar jos padalinio pavadinimas ir adresas. Gyventojų registre neregistruoto naujagimio kortelėje nurodoma PAASPĮ, prie kurios prisiregistravusi naujagimio motina;
+
+
+13.10. 17 A langelyje „Hospitalizavimo data“ turi būti įrašoma paciento hospitalizavimo data (metai, mėnuo, diena), o 17 B langelyje – hospitalizavimo valanda ir minutės;
+
+
+13.11. lange „Nelaimingas atsitikimas darbe“ žymimas (?) vienas iš dviejų langelių: 18 A langelis „ne“ žymimas, jei hospitalizavimo priežastis nėra nelaimingas atsitikimas darbe; 18 B langelis „taip“ žymimas, jei hospitalizavimo priežastis – nelaimingas atsitikimas darbe;
+
+
+13.12. lange „Draudimas“ žymimas (√) vienas iš keturių langelių: 19 A langelis „apdraustas privalomuoju sveikatos draudimu (PSD)“, 19 B langelis „apdraustas ES, EEE šalyje ar Šveicarijoje“, 19 C langelis „neapdraustas“ arba 19 G langelis „VB“. Informacija turi atitikti Draudžiamųjų registro arba asmens pateikto dokumento, patvirtinančio draudimą, arba dokumento, patvirtinančio asmens teisę gauti Privalomojo sveikatos draudimo fondo (toliau – PSDF) ar valstybės biudžeto lėšomis apmokamą paslaugą, duomenis hospitalizavimo dieną;
+
+Punkto pakeitimai:
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+ 
+
+
+13.13. jei žymimas 19 B langelis „apdraustas ES, EEE šalyje ar Šveicarijoje“, 19 D langelyje „valstybė“ įrašoma valstybė, kurioje pacientas yra apdraustas, o 19 E langelyje „draudimo dok. / kateg.:“ įrašomas draudimą ir teisę gauti sveikatos priežiūros paslaugas patvirtinančio dokumento numeris pagal šį sąrašą: 1 – „ESDK“ (Europos sveikatos draudimo kortelė); 2 – „Sertifikatas“ (sertifikatas, laikinai pakeičiantis Europos sveikatos draudimo kortelę); 3 – „E112“ (E 112 formos pažyma); 4 – „E123“ (E 123 formos pažyma); 5 – „S2“ (S2 formos dokumentas); 6 – „DA1“ (DA1 formos dokumentas); 9 – „Kitas“ (kitas dokumentas). 1 ir 2 dokumentai patvirtina asmens teisę gauti Reglamento (EB) Nr. 883/2004 19 (1) straipsnyje numatytą medicinos pagalbą, jei ji būtina dėl asmens sveikatos būklės lankymosi Lietuvoje metu, atsižvelgiant į numatomą lankymosi Lietuvoje trukmę. 3 ir 5 dokumentai patvirtina asmens teisę gauti Reglamento (EB) Nr. 883/2004 20 (2) straipsnyje nurodytą planinę medicinos pagalbą. 4 ir 6 dokumentai patvirtina asmens teisę gauti Reglamento (EB) Nr. 883/2004 19 (1) straipsnyje nurodytą būtinąją medicinos pagalbą dėl nelaimingo atsitikimo darbe ar profesinės ligos. Jei pažymimas 19 G langelis „VB“, 19 D langelyje „valstybė“ įrašoma paciento ankstesnės gyvenamosios vietos valstybė (jei pacientas yra užsienietis) arba „Lietuva“ (jei pacientas yra Lietuvos Respublikos pilietis), o 19 E langelyje „draudimo dok. / kateg.:“ automatiškai įrašomas skaičius, žymintis atitinkamą valstybės biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų kategoriją: 10 – „VP“ (visos paslaugos, kurios, vadovaujantis teisės aktais, yra kompensuojamos ir PSDF biudžeto lėšomis), 11 – „BMP“ (būtinosios medicinos pagalbos paslaugos, apimančios būtinosios medicinos pagalbos ir būtinąsias asmens sveikatos priežiūros paslaugas), 12 – „BMP neapdraustam“ (būtinosios medicinos pagalbos paslaugos, apimančios būtinosios medicinos pagalbos ir būtinąsias asmens sveikatos priežiūros paslaugas, teikiamas neapdraustam PSD Lietuvos Respublikos piliečiui). Jei žymimas 19 B langelis „apdraustas ES, EEE šalyje ar Šveicarijoje“, 19 F langelyje „galioja iki“ turi būti įrašyta draudimą ir teisę gauti sveikatos priežiūros paslaugas patvirtinančio dokumento galiojimo data. 19 G langelis „VB“ žymimas (√), jeigu asmeniui teikiamos asmens sveikatos priežiūros paslaugos valstybės biudžeto lėšomis bus apmokamos vadovaujantis Lietuvos Respublikos sveikatos draudimo įstatymo 6 straipsnio 5 dalies ir 8 straipsnio 5 dalies nuostatomis;
+
+Punkto pakeitimai:
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+ 
+
+
+13.14. lange „Atvyko pagal siuntimą“ žymimas (?) vienas iš dviejų langelių: 20 A langelis „taip“, jei pacientas atvyksta pagal siuntimą, 20 B langelis „ne“, jei pacientas atvyksta neturėdamas siuntimo. Nėščiosios, gimdyvės ir naujagimio kortelė (forma Nr. 113) prilyginama siuntimui;
+
+
+13.15. lange „Atvežė GMP brigada“ žymimas (?) vienas iš dviejų langelių: 20 C langelis „taip“ žymimas, jei pacientą atveža greitosios medicinos pagalbos (toliau – GMP) brigada, kitu atveju žymimas 20 D langelis „ne“;
+
+
+13.16. jei pacientas atvyksta pagal siuntimą, 20 E langelyje rašomas siunčiančiosios ASPĮ arba jos padalinio (jei siuntimą išduoda ASPĮ padalinys) kodas pagal Juridinių asmenų registrą, 20 F langelyje – siunčiančiosios ASPĮ arba jos padalinio pavadinimas. Jei pacientą be siuntimo atgabena GMP brigada, 20E ir 20F langeliuose atitinkamai nurodomas GMP paslaugas teikiančios įstaigos kodas ir pavadinimas;
+
+
+13.17. jei pacientas atvysta pagal siuntimą, išduotą ASPĮ arba jo padalinio, siuntimo jį gydyti stacionare priežastis nurodoma pagal siuntimo duomenis: 20 G langelyje nurodomas ligos kodas, o 20 H langelyje – ligos pavadinimas pagal Tarptautinės statistinės ligų ir sveikatos sutrikimų klasifikacijos dešimtąjį pataisytą ir papildytą leidimą „Sisteminis ligų sąrašas“– Australijos modifikaciją (toliau – TLK-10AM). Jei pacientą be siuntimo atgabena GMP brigada, siuntimo jį gydyti stacionare priežastis nurodoma 20 G ir 20 H langeliuose pagal GMP ligonio siuntimo (forma Nr. 114/a) duomenis;
+
+
+13.18. langelis „Hospitalizavimo tipas“ turi būti pildomas vadovaujantis Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. balandžio 8 d. įsakymu Nr. V-208 „Dėl Būtinosios medicinos pagalbos ir būtinosios medicinos pagalbos paslaugų teikimo tvarkos bei masto patvirtinimo“, Lietuvos Respublikos sveikatos apsaugos ministro 2022 m. gegužės 17 d. įsakymu Nr. V-976 „Dėl Būtinųjų asmens sveikatos priežiūros paslaugų teikimo tvarkos ir masto aprašo patvirtinimo“ arba Reglamento (EB) Nr. 883/2004 19 (1) straipsniu: žymimas (√) vienas iš trijų langelių – 21 A langelis „būtinoji pagalba“, 21 B langelis „būtinosios paslaugos“ arba 21 C langelis „kita“.
+
+Punkto pakeitimai:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+ 
+
+
+14. I dalies lentelę „Gydymo skyriuje (-iuose) duomenys“ pildo pacientą gydantis ir (ar) išrašantis iš stacionaro gydytojas arba akušeris. Ekonominius duomenis pildo įstaigos vadovo įgaliotas asmuo. Šios lentelės viena eilutė skirta vienos tame pačiame skyriuje gydomam pacientui suteiktos paslaugos duomenims pateikti. Jei pacientas perkeliamas iš vieno skyriaus į kitą arba jei tame pačiame skyriuje baigus teikti vieną paslaugą pradedama teikti kita paslauga, pildoma nauja eilutė:
+
+Punkto pakeitimai:
+
+Nr. V-393, 2017-04-06, paskelbta TAR 2017-04-10, i. k. 2017-06085
+
+
+14.1. 22 skiltyje „Atvykimo data (MM-mm-DD)“ turi būti rašoma paciento atvykimo į skyrių arba kitos paslaugos tame pačiame skyriuje teikimo pradžios data;
+
+
+14.2. 23 skiltyje „Išvykimo data (MM-mm-DD)“ turi būti rašoma paciento išvykimo iš skyriaus arba paslaugos teikimo pabaigos data;
+
+
+14.3. 24 skiltyje „Lovad.“ turi būti rašomas paslaugos teikimo skyriuje dienų (lovadienių) skaičius. Lovadienių skaičius apskaičiuojamas iš išvykimo datos atimant atvykimo datą. Jei pacientas atvyko ir išvyko iš skyriaus tą pačią dieną, šioje skiltyje rašomas skaičius „1“ (nurodomas 1 lovadienis);
+
+
+14.4. 25 skiltyje „Skyrius“ turi būti rašomas skyriaus pavadinimas, kuriame gydomas pacientas;
+
+
+14.5. 26 skiltyje „Paslaugos kodas“ turi būti rašomas pacientui suteiktos asmens sveikatos priežiūros paslaugos (išskyrus aktyviojo gydymo) kodas pagal VLK direktoriaus patvirtintą  Asmens sveikatos priežiūros paslaugų ir sveikatos programose numatytų paslaugų, už kurias mokama iš Privalomojo sveikatos draudimo fondo biudžeto, klasifikatorių (toliau – Klasifikatorius). Teikiant aktyviojo gydymo paslaugas, šioje skiltyje nurodomas tik asmens, slaugančio vaiką (-us), paslaugos kodas;
+
+Punkto pakeitimai:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+14.6. 27 skiltyje „TLK-10-AM“ turi būti rašomas pagrindinės diagnozės, pagal kurią skyriuje teikiama paslauga (išskyrus aktyviojo gydymo), kodas, vadovaujantis TLK-10-AM;
+
+
+14.7. 28 skiltyje „Gydytojas (vardas, pavardė, spaudo Nr.)“ turi būti rašomas gydančiojo arba pacientą išrašiusio, arba perkėlusio į kitą skyrių gydytojo arba akušerio vardas, pavardė ir spaudo numeris (kitu atveju dedamas gydytojo arba akušerio spaudas);
+
+Punkto pakeitimai:
+
+Nr. V-393, 2017-04-06, paskelbta TAR 2017-04-10, i. k. 2017-06085
+
+ 
+
+
+14.8. 29 skiltyje „Kaina %/Ap. lovad.“ turi būti nurodoma paslaugos bazinės kainos kompensuojamoji dalis procentais, vadovaujantis teisės aktų nustatyta tvarka. Jei už stacionarines asmens sveikatos priežiūros paslaugas mokama pagal faktinį lovadienių skaičių, šiame langelyje turi būti nurodomas lovadienių, už kuriuos turi mokėti teritorinė ligonių kasa, skaičius. Šioje skiltyje nurodant kompensuojamąją bazinės kainos dalį procentais, būtina laikytis šios sąlygos: jei vieno etapo metu teikiamos kelios tokios pačios transplantacijos paslaugos (žymimos tuo pačiu paslaugos kodu – jų kodas 26 skiltyje nurodomas tiek kartų, kiek buvo suteikta šių paslaugų), tik paskutinės iš šių paslaugų duomenų eilutės 29 skiltyje nurodoma kompensuojamoji bazinės kainos dalis procentais. Kiekvienos anksčiau suteiktos tos pačios paslaugos duomenų eilutės 29 skiltyje rašomas nulis;
+
+
+14.9. 30 skiltyje „Mokama suma (balais)“ turi būti rašoma už suteiktą paslaugą mokama suma balais, kuri apskaičiuojama Klasifikatoriuje nurodytą paslaugos bazinę kainą balais, galiojančią gydymo etapo paskutiniąją dieną, dauginant iš paslaugos bazinės kainos kompensuojamosios dalies procentais arba iš apmokamų lovadienių skaičiaus (jei mokama už lovadienius);
+
+
+14.10. 31 skiltyje „Etapo Nr.“ turi būti rašomas etapo numeris (du skaitmenys), nurodytas 32 langelyje;
+
+
+14.11. duomenys apie vaiką slaugantį asmenį pateikiami I dalies lentelės „Gydymo skyriuje (-iuose) duomenys“ atskiroje eilutėje, prieš tai užpildžius vaiko duomenų eilutę (-es). Slaugančiojo asmens duomenų eilutės 26 skiltyje nurodomas paslaugos kodas, 31 skiltyje rašomas tas pats etapo numeris kaip ir vaiko duomenų eilutės (-čių) 31 skiltyje. Vaiko vieno gydymo etapo metu jį slaugančio asmens paslauga įrašoma vieną kartą (vaiką slaugančio asmens paslaugos teikimo data turi priklausyti tam pačiam etapui, kai buvo gydomas vaikas). Jei vieno etapo metu ši paslauga teikiama su pertraukomis, 29 skiltyje nurodomas suminis apmokamų lovadienių skaičius.
+
+
+15. Dalį „Išrašymo duomenys“ pildo gydytojas arba akušeris, išrašantis pacientą iš stacionaro. Ekonominius šios dalies duomenis pildo įstaigos vadovo įgaliotas asmuo:
+
+
+15.1. 65 A langelyje „Išrašymo data“ rašoma paciento išrašymo, perkėlimo arba mirties data (metai, mėnuo, diena), o 65 B langelyje – išrašymo valanda ir minutės;
+
+
+15.2. 66 langelyje „Lovadieniai“ rašoma paciento gydymo stacionare trukmė. Lovadienių skaičius apskaičiuojamas iš išrašymo datos atimant hospitalizavimo datą. Jei pacientas atvyksta ir išvyksta tą pačią dieną, šioje skiltyje rašomas skaičius „1“ (nurodomas 1 lovadienis);
+
+
+15.3. 67 langelyje „Etapų skaičius“ rašomas gydymo etapų skaičius;
+
+
+15.4. 68 langelyje „Paciento priemokos“ rašoma (-os) paciento primokėta (-os) suma (-os) už jam gydyti skirtas medžiagas ir (ar) vaistus, ir (ar) procedūras bei tyrimus, ir (ar) tam tikras buvimo ASPĮ sąlygas, ir (ar) kita pagal Lietuvos Respublikos sveikatos sistemos įstatymo 49 straipsnyje nurodytą tvarką;
+
+
+15.5. 69 langelyje „Mokamos paslaugos“ rašoma (-os) paciento sumokėta (-os) suma (-os) už suteiktą (-as) paslaugą (-as) pagal Mokamų asmens sveikatos priežiūros paslaugų sąrašą ir kainas, patvirtintus Lietuvos Respublikos sveikatos apsaugos ministro 1999 m. liepos 30 d. įsakymu Nr. 357 „Dėl Mokamų asmens sveikatos priežiūros paslaugų sąrašo, kainų nustatymo ir jų indeksavimo tvarkos bei šių paslaugų teikimo ir apmokėjimo tvarkos“ (toliau – Mokamų asmens sveikatos priežiūros paslaugų sąrašas ir kainos), ir (ar) paciento sumokėta (-os) suma (-os) už paslaugas, gautas ne eilės tvarka, ir (ar) kita pagal Mokamų asmens sveikatos priežiūros paslaugų teikimo ir apmokėjimo tvarką, patvirtintą Lietuvos Respublikos sveikatos apsaugos ministro 1999 m. liepos 30 d. įsakymu Nr. 357 „Dėl Mokamų asmens sveikatos priežiūros paslaugų sąrašo, kainų nustatymo ir jų indeksavimo tvarkos bei šių paslaugų teikimo ir apmokėjimo tvarkos“ (toliau – Mokamų paslaugų teikimo ir apmokėjimo tvarka);
+
+
+15.6. 70 A langelis „Ar apmokama?“ žymimas (√), kai gydymo išlaidos apmokamos PSDF arba valstybės biudžeto lėšomis, vadovaujantis Lietuvos Respublikos teisės aktų nustatyta tvarka. 70 B langelyje „Teritorinė ligonių kasa“ nurodoma gydymo išlaidas kompensuojanti teritorinė ligonių kasa, išskyrus atvejus, kai teikiamos žmogaus organų ir audinių transplantacijos paslaugos. 70 C langelyje „Bendra suma (eurais)“ nurodoma bendra gydymo stacionare išlaidų suma eurais, apskaičiuojama sudedant visų gydymo etapų išlaidas (kiekvieno gydymo etapo išlaidų suma nurodoma kortelės 63 A langelyje).
+
+Papunkčio pakeitimai:
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+ 
+
+Punkto pakeitimai:
+
+Nr. V-393, 2017-04-06, paskelbta TAR 2017-04-10, i. k. 2017-06085
+
+Nr. V-1051, 2019-09-06, paskelbta TAR 2019-09-09, i. k. 2019-14351
+
+ 
+
+
+III SKYRIUS
+KORTELĖS ANTROSIOS DALIES „ETAPO DUOMENYS“ PILDYMAS
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+16. Antrąją dalį „Etapo duomenys“ pildo pacientą gydantis ir (ar) išrašantis iš stacionaro gydytojas arba medicinines intervencijas atlikęs specialistas. Ekonominius šios dalies duomenis surašo įstaigos vadovo įgaliotas asmuo. 32 langelyje „Etapo Nr.“ eilės tvarka turi būti nurodomas gydymo etapo numeris (01, 02 ir t. t.) ir gydymo rūšis: A – aktyviojo gydymo paslauga, I – ilgalaikio gydymo paslauga, R – medicininė reabilitacija, T – transplantacijos paslauga. Jei keičiasi gydymo rūšis (baigiamas paciento aktyvusis gydymas ir pradedamas ilgalaikis gydymas arba medicininė reabilitacija, arba atliekama transplantacija ir t. t.), tai yra – pradedamas naujas gydymo etapas, pildoma nauja kortelės antroji dalis – joje rašomi jau kito gydymo etapo duomenys. Ilgalaikio gydymo atveju kortelės antroji dalis iš naujo pildoma pasibaigus kiekvienam kalendoriniam mėnesiui (žr. 37 langelio aprašymą).
+
+
+17. 33 langelyje „Ligos istorijos Nr.“ turi būti rašomas ligos istorijos numeris (atitinkantis 5 langelyje nurodytą ligos istorijos numerį).
+
+
+18. Lange „Priverstinis gydymas“ turi būti žymimas (?) vienas iš trijų langelių: 34 A langelis „taip“ žymimas, jei pacientui taikomas priverstinis gydymas Lietuvos Respublikos teisės aktų nustatyta tvarka, 34 B langelis „ne“ žymimas, jei pacientui netaikomas priverstinis gydymas, kitais atvejais žymimas 34 C langelis „nežinoma“.
+
+
+19. 35 A langelyje „Etapo pradžios data“ turi būti rašoma etapo pradžios data (metai, mėnuo, diena), o 35 B langelyje – etapo pradžios laikas (valanda ir minutės). Pirmojo etapo pradžios data ir laikas sutampa su hospitalizavimo data ir laiku. Kito etapo pradžios data ir laikas turi sutapti su ankstesnio etapo pabaigos data ir laiku.
+
+
+20. Lange „Amžius“ turi būti pildomas vienas iš dviejų langelių: 36 A langelyje „metai“ įrašomas asmens amžius metais (nuo 1 iki 124 metų) arba 36 B langelyje „dienos“ – asmens amžius dienomis (nuo 1 iki 364/5 dienų). Amžius dienomis rašomas tik tuomet, jei pacientas yra jaunesnis nei vienerių metų. Amžius metais ir (arba) dienomis apskaičiuojamas iš hospitalizavimo datos atimant gimimo datą. Naujagimių, kurių gimimo data sutampa su hospitalizavimo data, amžius dienomis lygus 1, metais – 0. Pacientų, kurie neturi asmens tapatybę patvirtinančių dokumentų, gimimo data gali būti nenurodoma, tačiau amžius dienomis arba metais turi būti įrašomas.
+
+
+21. 37 A langelis „Išankstinio mokėjimo etapas“ žymimas (http://www.infolex.lt/ta/PictureThumbnail.aspx?Id=a4ebd059-4828-4040-832c-83da1cfab678) ilgalaikio gydymo atveju, jei pasibaigus kalendoriniam mėnesiui (už kurį ilgalaikio gydymo atveju teritorinė ligonių kasa atsiskaito kaip už vieną gydymo etapą) šis gydymas tęsiamas. Siekiant užtikrinti tolygų mokėjimą už suteiktas ilgalaikio gydymo paslaugas, kiekvieno kalendorinio mėnesio pabaigoje užpildoma kortelės I dalies lentelės „Gydymo skyriuje (-iuose) duomenys“ viena eilutė (22, 23, 24, 25, 26, 27, 28, 29, 30 ir 31 skiltys) ir visa kortelės II dalis „Etapo duomenys“ (surašomi ataskaitinio kalendorinio mėnesio duomenys). 56 A langelyje „Išrašymo būdas“ nurodomas skaitmuo 8, reiškiantis, kad baigėsi išankstinio mokėjimo etapas. Pasibaigus paciento ilgalaikiam gydymui (pradėjus jam taikyti kitos rūšies gydymą arba jį išrašius), kortelė pildoma bendra tvarka, II dalyje nurodant paskutinio ilgalaikio gydymo etapo duomenis, tačiau 37 A langelis jau nežymimas, t. y. nenurodoma, kad tai išankstinio mokėjimo etapas; 37 B langelis „Tęstinis aktyvusis gydymas“ žymimas (http://www.infolex.lt/ta/PictureThumbnail.aspx?Id=a4ebd059-4828-4040-832c-83da1cfab678) tęstinio aktyviojo gydymo atveju, jei šis gydymo atvejis atitinka Lietuvos Respublikos sveikatos apsaugos ministro įsakymu nustatytą paslaugos teikimo tvarką.
+
+Punkto pakeitimai:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+22. 38 langelyje „Svoris“ rašomas naujagimio (iki 28 dienų) svoris (100 g–9999 g) atvykimo į stacionarą metu. Šis langelis taip pat pildomas hospitalizuojant kūdikius iki vienerių metų, jei hospitalizavimo metu jų svoris mažesnis nei 2500 g.
+
+
+23. Dalis „Klinikiniai ir ekonominiai duomenys“ pildoma taip:
+
+
+23.1. lange „Pagrindinė diagnozė (TLK-10-AM)“ turi būti rašomas vienos diagnozės kodas (39 A langelis) ir pavadinimas (39 B langelis) pagal TLK-10-AM, atitinkantis pagrindinės diagnozės kriterijus, nurodytus Kodavimo standartuose (angl. Australian Coding Standarts – ACS);
+
+
+23.2. lange „Komplikacijos ir gretutinės ligos (TLK-10-AM, TLK-O)“ žymimas 40 A langelis „Nepageidaujamas įvykis“, jeigu gydymo etapo metu įvyksta nepageidaujamas įvykis. Nepageidaujamas įvykis – nepageidaujamus padarinius pacientui galėjęs sukelti ar sukėlęs įvykis. Nepageidaujamą įvykį lemia daugelio aplinkybių tarpusavio sąveika, labiau – medicinos pagalbos teikimas ir organizavimas nei paciento liga ar būklė. 40 B langelyje įrašomi visų komplikacijų ir gretutinių ligų kodai pagal TLK-10-AM, atitinkantys komplikacijų ir gretutinių ligų kriterijus, nurodytus Kodavimo standartuose. Taip pat šiame langelyje pagal TLK-10-AM nurodomas traumos (sužalojimo), apsinuodijimo ar kito nepageidaujamo poveikio išorinės priežasties kodas, įvykio vietos kodas ir veiklos, dėl kurios asmuo nukentėjo, kodas. Navikų morfologiniai kodai įrašomi pagal Tarptautinės onkologinių ligų klasifikacijos trečiąjį leidimą, t. y. pagal TLK-10-AM priedą A „Navikų morfologija“. Pildant vieno etapo duomenis, gali būti nurodoma iki 30 skirtingų komplikacijų ir gretutinių ligų;
+
+
+23.3. II dalies lentelėje „Medicininės intervencijos“ pateikiama informacija apie pacientui atliktas medicinines intervencijas, vadovaujantis Medicininių intervencijų klasifikacija (angl. The Australian Classification of Health Interventions – ACHI). Šioje lentelėje gali būti nurodoma iki 30 medicininių intervencijų. Kiekviena medicininė intervencija aprašoma užpildant vieną lentelės eilutę;
+
+
+23.4. 41 skilties „Pradžios data ir laikas / pabaigos data ir laikas (MMMM-mm-DD hh:mm)“ viršutinėje eilutėje rašoma medicininės intervencijos atlikimo pradžios data ir laikas, nurodant valandas ir minutes, o apatinėje eilutėje – medicininės intervencijos atlikimo pabaigos data ir laikas, nurodant valandas ir minutes. Medicininės intervencijos pabaigos datą ir laiką, nurodant valandas ir minutes, būtina įrašyti, kai medicininė intervencija yra nurodyta Detalizuotų didžiųjų ir mažųjų operacijų sąraše, patvirtintame Lietuvos Respublikos sveikatos apsaugos ministro 2012 m. vasario 27 d. įsakymu Nr. V-145 „Dėl Detalizuoto didžiųjų ir mažųjų operacijų sąrašo tvirtinimo“;
+
+Punkto pakeitimai:
+
+Nr. V-705, 2014-06-16, paskelbta TAR 2014-06-18, i. k. 2014-07740
+
+Nr. V-1417, 2015-12-07, paskelbta TAR 2015-12-10, i. k. 2015-19630
+
+ 
+
+
+23.5. 42 skilties „Pagrind. med. interv.“ atitinkamas langelis žymimas (?) tik tuomet, kai 44 skiltyje nurodyta medicininė intervencija, atlikta vieno gydymo etapo metu, laikoma pagrindine. Jei vienu gydymo etapu atliekama tik viena medicininė intervencija, ji laikoma pagrindine. Jei vienu gydymo etapu atliekamos kelios medicininės intervencijos, pagrindine medicinine intervencija laikoma ta, kuri yra labiau gydomoji, o ne diagnostinė, ir yra labiau susijusi su pagrindine diagnoze;
+
+
+23.6. 43 skiltyje „ACHI kodas“ rašomas medicininės intervencijos kodas pagal Medicininių intervencijų klasifikaciją (ACHI), kurį sudaro septyni skaitmenys. Šioje skiltyje taip pat nurodomas medicininės intervencijos, atliktos gydymo etapo metu kitoje ASPĮ, kodas;
+
+
+23.7. 44 skiltyje „Pavadinimas“ rašomas medicininės intervencijos pavadinimas pagal Medicininių intervencijų klasifikaciją (ACHI);
+
+
+23.8. 45 skiltis „Paslaugos kodas“ pildoma tada, kai už procedūrą ar tyrimą, atliktą kortelę pildančioje ASPĮ, papildomai mokama PSDF ar valstybės biudžeto lėšomis teisės aktų nustatyta tvarka. Paslaugos kodas įrašomas pagal Klasifikatorių, nurodytą Taisyklių 14.5 papunktyje;
+
+Punkto pakeitimai:
+
+Nr. V-705, 2014-06-16, paskelbta TAR 2014-06-18, i. k. 2014-07740
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+ 
+
+
+23.9. 46 skiltyje „Specialistas (vardas, pavardė, spaudo Nr.)“ rašomas medicininę intervenciją atlikusio arba ją paskyrusio (jei medicininė intervencija atliekama kitoje ASPĮ) gydytojo (ar kito specialisto) vardas, pavardė ir spaudo numeris (arba dedamas specialisto spaudas);
+
+
+23.10. 47 skiltyje „Mokama suma (balais)“ rašoma medicininės intervencijos, tyrimo ar procedūros bazinė kaina balais (nurodyta Klasifikatoriuje), galiojanti gydymo etapo paskutinę dieną, jei už juos papildomai mokama PSDF ar valstybės biudžeto lėšomis teisės aktų nustatyta tvarka;
+
+Punkto pakeitimai:
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+ 
+
+
+23.11. 48 skiltyje „Išlaidos kontrastui (eurais)“ nurodoma tyrimui panaudotos kontrastinės medžiagos kaina eurais;
+
+Punkto pakeitimai:
+
+Nr. V-1017, 2014-09-29, paskelbta TAR 2014-10-20, i. k. 2014-14378
+
+Nr. V-1419, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21115
+
+Nr. V-1737, 2020-07-31, paskelbta TAR 2020-08-03, i. k. 2020-16809
+
+ 
+
+
+23.12. 49 skiltyje „Atlikta kitoje ASPĮ“ atitinkamas langelis žymimas (?) tuomet, kai toje pačioje eilutėje nurodoma medicininė intervencija, atlikta kitoje ASPĮ arba kitos ASPĮ gydytojo pacientą hospitalizavusioje ASPĮ;
+
+
+23.13. 43 A langelis „Cezario pjūvio operacijos nėščiosios pageidavimu paslauga“ pažymimas, jei pacientei teikiama cezario pjūvio operacijos paslauga, vadovaujantis Lietuvos Respublikos sveikatos apsaugos ministro 2022 m. spalio 27 d. įsakymu Nr. V-1607 „Dėl Cezario pjūvio operacijos nėščiosios pageidavimu paslaugos organizavimo tvarkos aprašo patvirtinimo“.
+
+Papildyta papunkčiu:
+
+Nr. V-1006, 2023-09-15, paskelbta TAR 2023-09-15, i. k. 2023-18232
+
+ 
+
+
+24. Jei pacientui suteikus ambulatorinę specializuotą paslaugą ir (ar) stebėjimo paslaugą, ir (ar) paslaugą priėmimo-skubiosios pagalbos skyriuje paaiškėja, kad jis turi būti gydomas stacionare ir jis iš karto hospitalizuojamas šias paslaugas suteikusioje ASPĮ, minėtų paslaugų išlaidos įskaičiuojamos į gydymo stacionare išlaidas, o pacientui atliktas medicinines intervencijas kortelėje registruoja jas atliekantis arba pacientą hospitalizuojantis gydytojas.
+
+
+25. 50 langelis „Kraujas ir jo komponentai“ pildomas, jei gydymo etapo metu panaudojamas kraujas arba jo komponentai, o medicininių intervencijų lentelės 43 skiltyje nurodomas atitinkamas kodas pagal Medicininių intervencijų klasifikacijos (ACHI) 1893 kodų bloką „Kraujo ir jo produktų įvedimas“. Skiltyje „Vnt.“ įrašomas panaudotų kraujo komponentų, nurodytų Kraujo ir jo komponentų didžiausių leistinų kainų sąraše, patvirtintame Lietuvos Respublikos sveikatos apsaugos ministro 2009 m. gruodžio 31 d. įsakymu Nr. V-1127 „Dėl Kraujo ir jo komponentų didžiausių leistinų kainų sąrašo patvirtinimo“, vienetų skaičius.
+
+Punkto pakeitimai:
+
+Nr. V-1417, 2015-12-07, paskelbta TAR 2015-12-10, i. k. 2015-19630
+
+ 
+
+
+26. 50 A langelyje „Suma (balais), mokama už kraujo komponentus“ nurodoma už kraujo komponentus mokama suma balais (pildoma automatiškai).
+
+Punkto pakeitimai:
+
+Nr. V-1417, 2015-12-07, paskelbta TAR 2015-12-10, i. k. 2015-19630
+
+ 
+
+
+27. Neteko galios nuo 2016-01-01
+
+Punkto naikinimas:
+
+Nr. V-1417, 2015-12-07, paskelbta TAR 2015-12-10, i. k. 2015-19630
+
+ 
+
+
+28. 51 A langelyje „Etapo pabaigos data“ turi būti rašoma etapo pabaigos data (metai, mėnuo, diena), o 51 B langelyje – etapo pabaigos valanda ir minutės. Etapo pabaigos data turi sutapti su išrašymo data (jei pacientas išrašomas) arba kito gydymo etapo pradžios data (jei pradedamas kitas etapas).
+
+
+29. 52 langelyje „Lovadieniai“ turi būti nurodomas etapo lovadienių skaičius, apskaičiuojamas iš etapo pabaigos datos atimant šio etapo pradžios datą. Jei to paties etapo pradžios ir pabaigos datos sutampa, lovadienių skaičius lygus 1.
+
+
+30. Lange „Dienos paslauga“ turi būti žymimas (?) vienas iš dviejų langelių: 53 A langelis „ne“ arba 53 B langelis „taip“. 53 B langelis „taip“ žymimas, jei pacientas planine tvarka hospitalizuojamas ir išrašomas tą pačią dieną. Kitu atveju žymimas 53 A langelis „ne“.
+
+
+31. Langas „Siuntimas gauti med. reabilitaciją“ pildomas tada, kai pacientui išduodamas medicininės reabilitacijos, kurios išlaidos apmokamos PSDF biudžeto lėšomis, siuntimas: 54 A langelis „ambulatorinę“ žymimas (√) tada, kai pacientui išduodamas ambulatorinės reabilitacijos siuntimas, o 54 B langelis „stacionarinę“ – kai išduodamas stacionarinės reabilitacijos siuntimas.
+
+Punkto pakeitimai:
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+ 
+
+
+32. Langas „Dienos chirurgija“ pildomas vadovaujantis Lietuvos Respublikos sveikatos apsaugos ministro 2009 m. rugpjūčio 21 d. įsakymu Nr. V-668 „Dėl Dienos chirurgijos paslaugų teikimo reikalavimų ir Dienos chirurgijos paslaugų sąrašo patvirtinimo“: jei suteikta paslauga atitinka dienos chirurgijos teikimo reikalavimus, žymimas (http://www.infolex.lt/ta/PictureThumbnail.aspx?Id=a4ebd059-4828-4040-832c-83da1cfab678) 55 B langelis „taip“, o 55 C langelyje nurodomas dienos chirurgijos paslaugos grupės numeris (nuo I iki VI). Kitu atveju žymimas 55 A langelis „ne“.
+
+Punkto pakeitimai:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+33. 56 A langelyje „Išrašymo būdas“ turi būti nurodomas reikiamas skaičius pagal šį sąrašą:
+
+1 – perkėlimas į kitą ligoninę dėl stacionarinio aktyviojo gydymo;
+
+2 – perkėlimas į palaikomojo gydymo ir slaugos ligoninę;
+
+3 – perkėlimas į psichiatrijos ligoninę;
+
+4 – perkėlimas į medicininės reabilitacijos paslaugas teikiančią įstaigą dėl stacionarinės reabilitacijos;
+
+5 – perkėlimas į kitą ligoninę, nenurodytą 1–4 punktuose;
+
+6 – gydymo rūšies pasikeitimas toje pačioje ASPĮ;
+
+7 – savavališkas išvykimas;
+
+8 – išankstinio mokėjimo etapo pabaiga;
+
+9 – mirtis;
+
+10 – išrašymas namo arba kita (pvz., išrašymas į institucinės globos įstaigą, kūdikių namus, kardomojo kalinimo ar laivės atėmimo įstaigą, gydymo rūšies pasikeitimas toje pačioje ASPĮ pasikeitus paciento draudimo statusui, nurodytam 19 langelyje).
+
+Jei pasirenkamas išrašymo būdas, nurodytas 1–5 punktuose, pildomas langelis „Keliamas į ASPĮ“: 56 B langelyje įrašomas ASPĮ (arba jos padalinio), į kurią perkeliamas pacientas, kodas pagal Juridinių asmenų registrą, o 56 C langelyje – ASPĮ (arba jos padalinio) pavadinimas. Skaitmuo „6“, reiškiantis gydymo rūšies pasikeitimą, rašomas, jei paciento gydymo stacionare metu pasikeičia gydymo rūšis: po aktyviojo gydymo taikomas ilgalaikis gydymas arba medicininė reabilitacija, arba transplantacija ir atvirkščiai. Jei keičiasi gydymo rūšis, įvertinama, ar gydymo etapo metu nepasikeitė paciento draudimo statusas (nurodytas 19 langelyje). Tuo atveju, jei paciento draudimo statusas pasikeitė, o paciento gydymas toje pačioje ASPĮ turi būti tęsiamas, 56 A langelyje nurodomas skaitmuo „10“ ir pacientui užvedama nauja kortelė.
+
+Punkto pakeitimai:
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+ 
+
+
+34. Lange „Pagrindinė patologoanatominė diagnozė (TLK-10-AM)“ nurodomas pagrindinės patologoanatominės diagnozės kodas (57 A langelis) ir ligos pavadinimas pagal TLK-10-AM (57 B langelis). Šiuos langelius pildo skrodimą atliekantis gydytojas arba pacientą gydęs gydytojas pagal patologinio tyrimo protokolo duomenis.
+
+
+35. 58 langelyje „Patologoanatominės diagnozės: komplikacijos ir gretutinės ligos (TLK-10-AM, TLK-O)“ įrašomi skrodimo metu nustatytų komplikacijų ir gretutinių ligų kodai pagal TLK-10-AM. Taip pat įrašomi navikų morfologiniai kodai pagal Tarptautinės onkologinių ligų klasifikacijos trečiąjį leidimą – TLK-10-AM priedą A „Navikų morfologija“. Šiuos langelius pildo skrodimą atliekantis gydytojas arba pacientą gydęs gydytojas pagal patologinio tyrimo protokolo duomenis.
+
+
+36. 59, 60, 61 ir 62 langeliai pildomi taikant centralizuotą paslaugų grupavimą, jei gydymo rūšiai priskiriamos asmens sveikatos priežiūros paslaugos grupuojamos pagal DRG metodą. 59 langelyje „DRG grupė“ nurodomas DRG grupės keturių ženklų kodas, 60 langelyje „Pavadinimas“ – DRG grupės pavadinimas, 61 langelyje „Koeficientas“ – DRG grupės koeficientas, 62 langelyje „Kaina (balais)“ – vieno gydymo etapo kaina balais.
+
+
+37. 61 A langelyje „Bendras kainos koeficientas“ nurodoma DRG grupės, kraujo ir jo komponentų, medicinos pagalbos priemonių (toliau – MPP), procedūrų ir vaistų kainų koeficientų suma (pildoma automatiškai).
+
+Punkto pakeitimai:
+
+Nr. V-1417, 2015-12-07, paskelbta TAR 2015-12-10, i. k. 2015-19630
+
+ 
+
+
+38. 62 A langelyje „Bendra faktinė aktyviojo gydymo kaina (balais)“ nurodoma bendra faktinė aktyviojo gydymo atvejo kaina (sudedamos 50 A, 62 ir 80 langeliuose nurodytos sumos).
+
+Punkto pakeitimai:
+
+Nr. V-1417, 2015-12-07, paskelbta TAR 2015-12-10, i. k. 2015-19630
+
+ 
+
+
+39. 63 langelyje „Suma (balais), mokama už gydymo etapą“ nurodoma gydymo etapo išlaidų suma balais (sudedamos 30, 47, 48 ir 62 A langeliuose nurodytos sumos), 63 A langelyje „Suma (eurais), mokama už gydymo etapą“ nurodoma gydymo etapo išlaidų suma eurais (sudedamos 30, 47 ir 62 A langeliuose nurodytos sumos, įvertintos pagal gydymo etapo pabaigos dieną galiojusias balo vertes), prie šios sumos pridėjus 48 ir 63 B langeliuose nurodytas sumas, 63 B langelyje „Iš jų dienos chirurgijos paslaugų kompensacinis priedas (eurais)“ nurodomas dienos chirurgijos paslaugai taikomo kompensacinio priedo dydis (eurais).
+
+Punkto pakeitimai:
+
+Nr. V-1006, 2023-09-15, paskelbta TAR 2023-09-15, i. k. 2023-18232
+
+ 
+
+
+40. 64 langelyje „Pateikta“ nurodoma gydymo etapo duomenų arba kortelės (paciento išrašymo atveju) pateikimo teritorinei ligonių kasai elektroniniu būdu data.
+
+
+41. Pacientą išrašantis gydytojas arba akušeris, baigęs pildyti kortelę ir patikrinęs, ar visi langeliai užpildyti teisingai, 71 langelyje turi nurodyti savo vardą, pavardę, spaudo numerį ir pasirašyti. Jei išrašymo būdas 56 A langelyje nurodomas skaitmeniu „6“ (gydymo rūšies pasikeitimas toje pačioje ASPĮ) arba skaitmeniu „8“ (išankstinio mokėjimo etapo pabaiga), gydytojas nurodo paciento gydymo ir mokėjimo etapo duomenis, išskyrus išrašymo duomenis.
+
+Punkto pakeitimai:
+
+Nr. V-393, 2017-04-06, paskelbta TAR 2017-04-10, i. k. 2017-06085
+
+ 
+
+
+42. Neteko galios nuo 2023-04-22
+
+Punkto naikinimas:
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+ 
+
+
+IV SKYRIUS
+KORTELĖS TREČIOSIOS DALIES „MEDICINOS PAGALBOS PRIEMONĖS (MPP), VAISTAI IR PROCEDŪROS, TURINTYS ĮTAKOS GYDYMO KAINAI“ PILDYMAS
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. V-1417, 2015-12-07, paskelbta TAR 2015-12-10, i. k. 2015-19630
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+43. Trečiąją dalį „Medicinos pagalbos priemonės (MPP), vaistai ir procedūros, turintys įtakos gydymo kainai“ pildo pacientą gydantis ir (ar) išrašantis iš stacionaro gydytojas arba medicinines intervencijas atliekantis gydytojas. Ekonominius šios dalies duomenis surašo įstaigos vadovo įgaliotas asmuo. 73 langelyje „Etapo Nr.“ nurodomas gydymo etapo numeris (atitinkantis 32 langelyje nurodytą gydymo etapo numerį).
+
+Punkto pakeitimai:
+
+Nr. V-1417, 2015-12-07, paskelbta TAR 2015-12-10, i. k. 2015-19630
+
+ 
+
+
+44. 74 langelyje „Ligos istorijos Nr.“ rašomas ligos istorijos numeris (atitinkantis 5 langelyje nurodytą ligos istorijos numerį).
+
+
+45. III dalies lentelėje „Medicinos pagalbos priemonės (MPP), vaistai ir procedūros, turintys įtakos gydymo kainai“ pateikiama informacija apie panaudotas MPP ir vaistus bei atliktas procedūras.
+
+Punkto pakeitimai:
+
+Nr. V-1417, 2015-12-07, paskelbta TAR 2015-12-10, i. k. 2015-19630
+
+ 
+
+
+46. 80 langelyje „Suma (balais), mokama už MPP, vaistus ir procedūras“  nurodoma suma (balais), mokama už panaudotas MPP ir vaistus bei atliktas procedūras (pildoma automatiškai).
+
+Punkto pakeitimai:
+
+Nr. V-1417, 2015-12-07, paskelbta TAR 2015-12-10, i. k. 2015-19630
+
+ 
+
+
+47. Neteko galios nuo 2016-01-01
+
+Punkto naikinimas:
+
+Nr. V-1417, 2015-12-07, paskelbta TAR 2015-12-10, i. k. 2015-19630
+
+ 
+
+
+48. Neteko galios nuo 2016-01-01
+
+Punkto naikinimas:
+
+Nr. V-1417, 2015-12-07, paskelbta TAR 2015-12-10, i. k. 2015-19630
+
+Punkto pakeitimai:
+
+Nr. V-705, 2014-06-16, paskelbta TAR 2014-06-18, i. k. 2014-07740
+
+ 
+
+
+49. Neteko galios nuo 2016-01-01
+
+Punkto naikinimas:
+
+Nr. V-1417, 2015-12-07, paskelbta TAR 2015-12-10, i. k. 2015-19630
+
+Punkto pakeitimai:
+
+Nr. V-705, 2014-06-16, paskelbta TAR 2014-06-18, i. k. 2014-07740
+
+ 
+
+
+50. Neteko galios nuo 2016-01-01
+
+Punkto naikinimas:
+
+Nr. V-1417, 2015-12-07, paskelbta TAR 2015-12-10, i. k. 2015-19630
+
+Punkto pakeitimai:
+
+Nr. V-705, 2014-06-16, paskelbta TAR 2014-06-18, i. k. 2014-07740
+
+ 
+
+
+V SKYRIUS
+KORTELĖS KETVIRTOSIOS DALIES „CENTRALIZUOTAI PERKAMI VAISTAI IR MEDICINOS PAGALBOS PRIEMONĖS“ PILDYMAS
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+51. IV dalies lentelėje „Centralizuotai perkami vaistai ir medicinos pagalbos priemonės“ pateikiami duomenys apie pacientui gydyti skirtus centralizuotai perkamus vaistus (įskaitant imuninius vaistinius preparatus, vaistus tuberkuliozei gydyti, anti-D imunoglobuliną, kraujo vaistinius preparatus ir rekombinantinius krešėjimo faktorius) ir panaudotas MPP, išskyrus sąnarių endoprotezus (toliau – centralizuotai perkami vaistai ir MPP). Duomenys apie kiekvieną MPP ar vaistą pateikiami atskiroje eilutėje:
+
+
+51.1. 81 skiltyje „Data (MM-mm-DD)“ rašoma data, kai pacientas buvo pradėtas gydyti centralizuotai perkamais vaistais ar MPP;
+
+
+51.2. 82 skiltyje „Vaisto arba MPP NPAKID“ nurodomas centralizuotai perkamo vaisto arba MPP, kuriais buvo gydomas pacientas, identifikavimo kodas pagal Kompensuojamųjų vaistinių preparatų ir medicinos pagalbos priemonių klasifikatorių, tvarkomą VLK;
+
+
+51.3. 83 skiltyje „CP straipsnis“ nurodomas centralizuoto pirkimo straipsnio kodas pagal Centralizuotų pirkimų straipsnių klasifikatorių, tvirtinamą VLK direktoriaus įsakymu;
+
+
+51.4. 84 skiltyje „Vaisto arba MPP pavadinimas“ rašomas pacientui skirto centralizuotai perkamo vaisto arba MPP pavadinimas;
+
+
+51.5. 85 skiltyje „Matas“ nurodomas pacientui skirto centralizuotai perkamo vaisto arba MPP matas (pvz., „tab.“, „but.“ ir t. t.);
+
+
+51.6. 86 skiltyje „Kiekis“ nurodomas pacientui skirto centralizuotai perkamo vaisto arba MPP kiekis;
+
+
+51.7. 87 skiltyje „Gydytojas (vardas, pavardė, spaudo Nr.)“ rašomas vaistą skyrusio arba gydančiojo gydytojo vardas, pavardė ir spaudo numeris arba dedamas gydytojo spaudas;
+
+
+51.8. 88 skiltyje „Kaina“ rašoma pacientui skirto centralizuotai perkamo vaisto arba MPP kaina. Ši skiltis pildoma automatiškai kortelės registravimo informacinėje sistemoje „Sveidra“ metu. Centralizuotai perkamo vaisto arba MPP kaina skaičiuojama pagal jų deklaruojamąją kainą (skelbiamą Kompensuojamųjų vaistinių preparatų ir medicinos pagalbos priemonių klasifikatoriuje), galiojusią pirmąją gydymo šiuo vaistu ar MPP dieną.
+
+Punkto pakeitimai:
+
+Nr. V-402, 2016-03-25, paskelbta TAR 2016-04-11, i. k. 2016-08642
+
+ 
+
+
+VI SKYRIUS
+KORTELĖS PATEIKIMAS
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+52. ASPĮ užpildytą kortelę pateikia tai teritorinei ligonių kasai, kurios veiklos zonoje yra:
+
+
+52.1. PAASPĮ, prie kurios pacientas yra prisirašęs;
+
+
+52.2. paslaugą suteikusi ASPĮ – jei asmuo neidentifikuotas ar neprisirašęs prie PAASPĮ;
+
+
+52.3. PAASPĮ, prie kurios yra prisirašiusi kūdikio motina – jei stacionarinė asmens sveikatos priežiūros paslauga suteikiama neregistruotam Gyventojų registre naujagimiui.
+
+
+53. Kortelėje nurodyti gydymo etapo duomenys priskiriami tam ataskaitiniam laikotarpiui (ataskaitinis laikotarpis – kalendorinis mėnuo), kurio metu baigiasi gydymo etapas. Kortelė pateikiama teritorinei ligonių kasai ne vėliau kaip iki kito mėnesio 10 dienos. Jei kortelė nepateikiama laiku, ASPĮ ją gali pateikti teritorinei ligonių kasai tik abiejų šalių sutikimu. Dėl pavėluoto kortelės pateikimo ASPĮ kreipiasi į teritorinę ligonių kasą raštu.
+
+Punkto pakeitimai:
+
+Nr. V-1507, 2015-12-28, paskelbta TAR 2015-12-31, i. k. 2015-21304
+
+ 
+
+
+54. Teritorinė ligonių kasa patikrina ir patvirtina ASPĮ pateiktas korteles bei pagal jas parengtas ekonomines ataskaitas, kurių formos tvirtinamos VLK direktoriaus įsakymu.
+
+ 
+
+
+VII SKYRIUS
+KORTELĖS TIKSLINIMO IR ANULIAVIMO TVARKA
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+55. Pasibaigus ataskaitiniam laikotarpiui ir ASPĮ pateikus teritorinei ligonių kasai ekonomines ataskaitas, kortelių ir ekonominių ataskaitų duomenys gali būti keičiami tik abiejų šalių sutikimu.
+
+Punkto pakeitimai:
+
+Nr. V-1507, 2015-12-28, paskelbta TAR 2015-12-31, i. k. 2015-21304
+
+ 
+
+
+56. Kortelė tikslinama, jei pateikiami klaidingi duomenys apie pacientą ir jam suteiktas paslaugas. Jei tikslinami vieno kurio nors etapo duomenys, teritorinei ligonių kasai turi būti pateikta patikslinta kortelė su visų etapų duomenimis. Naujo etapo registravimas nebaigtoje pildyti kortelėje nelaikomas kortelės tikslinimu.
+
+
+57. Kortelė anuliuojama, jei joje nurodytos stacionarinės asmens sveikatos priežiūros paslaugos nebuvo suteiktos arba buvo suteiktos ne tam asmeniui, kurio kortelė pateikiama teritorinei ligonių kasai.
+
+
+58. Dėl kortelės tikslinimo ar anuliavimo ASPĮ kreipiasi į teritorinę ligonių kasą raštu, išskyrus atvejus, kai duomenų tikslinimą inicijuoja TLK ar Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos. Kortelės ekonominiai duomenys gali būti tikslinami einamaisiais biudžetiniais metais. Kortelės klinikiniai duomenys gali būti tikslinami jos saugojimo laikotarpiu, vadovaujantis Lietuvos Respublikos sveikatos apsaugos ministro 1999 m. lapkričio 29 d. įsakymu Nr. 515 „Dėl Sveikatos priežiūros įstaigų veiklos atskaitomybės tvarkos“. Teritorinė ligonių kasa informuoja ASPĮ apie leidimą tikslinti ar anuliuoti kortelės duomenis.
+
+Punkto pakeitimai:
+
+Nr. V-1507, 2015-12-28, paskelbta TAR 2015-12-31, i. k. 2015-21304
+
+ 
+
+
+_________________
+
+Formos pakeitimai:
+
+Nr. V-532, 2011-05-26, Žin., 2011, Nr. 65-3053 (2011-05-28), i. k. 1112250ISAK000V-532
+
+Nr. V-1106, 2011-12-23, Žin., 2011, Nr. 162-7695 (2011-12-30), i. k. 1112250ISAK00V-1106
+
+Nr. V-483, 2013-05-13, Žin., 2013, Nr. 52-2608 (2013-05-21), i. k. 1132250ISAK000V-483
+
+ 
+
+
+ 
+
+PATVIRTINTA
+
+Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymu Nr. 687
+
+(Lietuvos Respublikos sveikatos apsaugos ministro 2013 m. sausio 15 d. įsakymo Nr. V-39
+
+redakcija)
+
+ 
+
+FORMOS Nr. 025/A-LK „ASMENS AMBULATORINIO GYDYMO STATISTINĖ KORTELĖ“ PILDYMO, PATEIKIMO IR TIKSLINIMO TAISYKLĖS
+
+ 
+
+
+I SKYRIUS
+BENDROSIOS NUOSTATOS
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+1. Formos Nr. 025/a-LK „Asmens ambulatorinio gydymo statistinė kortelė“ pildymo, pateikimo ir tikslinimo taisyklės (toliau – Taisyklės) nustato formos Nr. 025/a-LK „Asmens ambulatorinio gydymo statistinė kortelė“ (toliau – kortelė) pildymo, pateikimo teritorinei ligonių kasai (toliau – TLK) ir tikslinimo tvarką.
+
+
+2. Taisyklės parengtos vadovaujantis 1971 m. birželio 14 d. Tarybos reglamentu (EEB) Nr. 1408/71 dėl socialinės apsaugos sistemų taikymo pagal darbo sutartį dirbantiems asmenims, savarankiškai dirbantiems asmenims ir jų šeimos nariams, judantiems Bendrijoje (OL 2004 m. specialusis leidimas, 5 skyrius, 1 tomas, p.35), 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 883/2004 dėl socialinės apsaugos sistemų koordinavimo (OL 2004 m. specialusis leidimas, 5 skyrius, 5 tomas, p. 72) (toliau – Reglamentas (EB) Nr. 883/2004), Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 10 straipsnio 11 punktu ir 16 straipsniu, Lietuvos Respublikos sveikatos draudimo įstatymo 9 straipsniu ir kitais teisės aktais.
+
+Punkto pakeitimai:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+3. Kortelė pildoma asmens sveikatos priežiūros įstaigose (toliau – ASPĮ), teikiančiose pirminės ambulatorinės asmens sveikatos priežiūros (įskaitant pirminės ambulatorinės odontologinės ir psichikos sveikatos priežiūros) paslaugas, ambulatorinės slaugos paslaugas namuose bei specializuotas ambulatorines asmens sveikatos priežiūros paslaugas, ambulatorinės chirurgijos, ambulatorinės reabilitacijos, ambulatorines brangiųjų tyrimų ir procedūrų, dienos stacionaro, skubiosios medicinos pagalbos ir stebėjimo paslaugas. Kortelė nepildoma greitosios medicinos pagalbos (toliau – GMP) paslaugas teikiančiose ASPĮ, išskyrus tuos atvejus, kai teikiama transportavimo paslauga dėl normalaus ar gresiančio priešlaikinio gimdymo bei laikotarpio po gimdymo patologijos, taip pat atvejus, kai pacientai, kuriems namuose taikoma dirbtinė plaučių ventiliacija (toliau – DPV), pervežami iš stacionarinės ASPĮ po gydymo į namus arba iš namų į stacionarinę ASPĮ toliau tirti ir (ar) gydyti. Už kortelės duomenų teisingumą atsako ją pildanti ASPĮ.
+
+Punkto pakeitimai:
+
+Nr. V-639, 2018-05-31, paskelbta TAR 2018-06-01, i. k. 2018-09030
+
+Nr. V-1627, 2020-07-09, paskelbta TAR 2020-07-15, i. k. 2020-15787
+
+ 
+
+
+4. Kortelę pildo gydytojai ir asmenys, atsakingi už ekonominių duomenų pateikimą. Kortelę gali pildyti ir kiti specialistai, teisės aktų nustatyta tvarka turintys teisę savarankiškai teikti asmens sveikatos priežiūros paslaugas.
+
+
+5. Kortelė pradedama pildyti, kai registruojamas pirmasis paciento apsilankymas pas specialistą dėl konkrečios priežasties.
+
+
+6. Kortelė baigiama pildyti, kai:
+
+
+6.1. registruojamas paskutinis paciento apsilankymas dėl tos pačios priežasties (po kurio nė vienas specialistas nebenumato kito apsilankymo);
+
+
+6.2. pacientas atsisako toliau gydytis;
+
+
+6.3. pacientas neatvyksta dėl nežinomų priežasčių;
+
+
+6.4. pacientas miršta;
+
+
+6.5. paciento apsilankymas numatomas ne anksčiau kaip po 30 dienų;
+
+
+6.6. praeina 30 dienų nuo kortelės pildymo pradžios – jei pacientas toliau ambulatoriškai gydomas, pradedama pildyti kita kortelė (išskyrus atvejus, kai teikiamos pradinės ambulatorinės reabilitacijos, ambulatorinės reabilitacijos, vaikų raidos sutrikimų ankstyvosios reabilitacijos, psichiatrijos dienos stacionaro, vaikų ir paauglių psichiatrijos dienos stacionaro ar psichoterapijos dienos stacionaro paslaugos).
+
+Punkto pakeitimai:
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+ 
+
+
+7. ASPĮ užpildytą kortelę pateikia tai TLK, kurios veiklos zonoje yra:
+
+
+7.1. pirminė ambulatorinė asmens sveikatos priežiūros įstaiga (toliau – PAASPĮ), prie kurios pacientas buvo prisirašęs pradedant pildyti kortelę;
+
+
+7.2. paslaugą suteikusi ASPĮ – jei pacientas neidentifikuotas ar neprisirašęs prie PAASPĮ;
+
+
+7.3. PAASPĮ, prie kurios yra prisirašiusi kūdikio motina, – jei asmens sveikatos priežiūros paslauga suteikiama Lietuvos Respublikos draudžiamųjų privalomuoju sveikatos draudimu registre (toliau – Draudžiamųjų registras) neregistruotam naujagimiui.
+
+
+8. Kortelių duomenys pateikiami TLK elektroniniu būdu – šie duomenys įvedami į privalomojo sveikatos draudimo informacinę sistemą „Sveidra“ (toliau – informacinė sistema „Sveidra“). ASPĮ kortelių duomenis gali kaupti pildydama popierinę kortelės formą ir (arba) šiuos duomenis įvesdama į ASPĮ informacinę sistemą.
+
+
+9. Kortelėje nurodyti duomenys priskiriami tam ataskaitiniam laikotarpiui (ataskaitinis laikotarpis – kalendorinis mėnuo), kurį baigiama pildyti kortelė, nepaisant to, kad į ją yra įrašyti ir ankstesnio ataskaitinio laikotarpio paciento apsilankymai. Kortelė pateikiama TLK ne vėliau kaip iki kito mėnesio 10 dienos. Jei kortelė nepateikiama laiku, ASPĮ ją gali pateikti TLK tik abiejų šalių raštišku sutikimu.
+
+Punkto pakeitimai:
+
+Nr. V-711, 2013-07-22, Žin., 2013, Nr. 82-4092 (2013-07-27), i. k. 1132250ISAK000V-711
+
+ 
+
+
+10. TLK patikrina ir patvirtina ASPĮ pateiktas korteles.
+
+ 
+
+
+II SKYRIUS
+KORTELĖS STRUKTŪRA
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+11. Kortelė apima statistinius ir ekonominius duomenis, būtinus statistinei analizei atlikti, asmens sveikatos priežiūros paslaugos kainai apskaičiuoti ir ataskaitoms sudaryti. Kortelę sudaro 5 dalys:
+
+
+11.1. I dalis „Bendroji dalis“;
+
+
+11.2. II dalis „Diagnozės“;
+
+Punkto pakeitimai:
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+ 
+
+
+11.3. III dalis „Apsilankymai“;
+
+
+11.4. IV dalis „Baigiamoji dalis“;
+
+
+11.5. V dalis „Gydytojų įrašai“.
+
+
+12. Viena ar kelios kortelės dalys pildomos tam tikros formos lape. III dalis „Apsilankymai“ gali būti trijų skirtingų formų (A, B, C). Į informacinę sistemą „Sveidra“ visos ASPĮ pateikia tik A formos III dalies „Apsilankymai“ duomenis.
+
+
+13. ASPĮ savo reikmėms gali pildyti ir kitokios formos (B ar C) III dalį „Apsilankymai“. B ir C formų III dalis „Apsilankymai“ apima ir papildomus (pridėtinius) lapus, kuriuose pateikiamos atskiros duomenų apie medicinines intervencijas, centralizuotai perkamus vaistus (įskaitant imuninius vaistinius preparatus, vaistus tuberkuliozei gydyti, anti-D imunoglobuliną, kraujo vaistinius preparatus ir rekombinantinius krešėjimo faktorius) ir medicinos pagalbos priemones (toliau – centralizuotai perkami vaistai ir MPP), paciento priemokas bei mokamas paslaugas lentelės. Visų formų III dalyje „Apsilankymai“ tos pačios skiltys ir langeliai žymimi tais pačiais numeriais.
+
+Punkto pakeitimai:
+
+Nr. V-402, 2016-03-25, paskelbta TAR 2016-04-11, i. k. 2016-08642
+
+ 
+
+
+14. ASPĮ turi užtikrinti, kad jos naudojamos formos kortelėje būtų visos kortelės paskirtį atitinkančios ir atitinkamoms asmens sveikatos priežiūros paslaugoms nurodyti būtinos dalys, skyriai, skiltys, eilutės ir langeliai, nustatyti Taisyklėse, kad dalių, skyrių, skilčių, eilučių ir langelių numeriai būtų tokie patys kaip standartinės formos kortelėje, kad atitinkami skyriai, skiltys ir langeliai būtų priskirti Taisyklėse nurodytoms kortelės dalims.
+
+
+15. ASPĮ pagal savo poreikius gali kortelėje numatyti papildomus duomenų langelius (ar skiltis) arba panaikinti tam tikrus langelius (ar skiltis), jei Taisyklėse nustatyta, kad atitinkamos paskirties kortelėje jie nepildomi. II ir III dalių lentelėse (apsilankymų, intervencijų, mokamų paslaugų ir paciento priemokų, centralizuotai perkamų vaistų ir medicinos pagalbos priemonių, diagnozių) eilučių skaičius gali būti kitoks nei standartinės formos kortelėje. Papildomi duomenys, kuriuos ASPĮ pagal savo poreikius įtraukia į kortelę, informacinei sistemai „Sveidra“ neteikiami.
+
+
+16. Jei pildant III dalį „Apsilankymai“ pritrūksta vietos, gali būti pildomas tos pačios formos naujas lapas (jame nurodomas kortelės numeris ir susijusio dokumento numeris).
+
+
+17. V dalies „Gydytojų įrašai“ duomenys informacinei sistemai „Sveidra “ neteikiami.
+
+ 
+
+
+III SKYRIUS
+KORTELĖS PILDYMO TAISYKLĖS
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+18. I dalies „Bendroji dalis“ 1 A ir 1 B langeliai, 2 langelis „Paskirtis“, 3 langelis „Kortelės Nr.“, 4 langelis „Susijusio dokumento Nr.“, 5 A langelis „Pirminė“ ir skyrius „Bendrieji asmens duomenys“ pildomi registruojant pacientą asmens sveikatos priežiūros paslaugai gauti. Skyrius „Bendrieji asmens duomenys“ pildomas remiantis paciento pateikta informacija ir dokumentais (šiuos duomenis gali koreguoti pacientui asmens sveikatos priežiūros paslaugas teikiantis specialistas).
+
+
+19. 1 A ir 1 B langelių grupės „ASPĮ“ 1 A langelyje turi būti įrašomas ASPĮ arba jos padalinio, teikiančio asmens sveikatos priežiūros paslaugą, kodas pagal Juridinių asmenų registrą, 1 B langelyje turi būti įrašomas šios ASPĮ arba jos padalinio, teikiančio paslaugą, pavadinimas pagal Juridinių asmenų registrą.
+
+
+20. 2 langelyje „Paskirtis“ nurodomas skaičius, žymintis atitinkamas asmens sveikatos priežiūros paslaugas, pagal šį sąrašą:
+
+
+20.1. „1“ – pirminės ambulatorinės asmens sveikatos priežiūros (įskaitant pirminės ambulatorinės odontologinės ir psichikos sveikatos priežiūros) paslaugos, specializuotos ambulatorinės asmens sveikatos priežiūros paslaugos bei brangieji tyrimai ir procedūros, pradinės ambulatorinės medicininės reabilitacijos paslaugos (skaitmeniu „1“ žymima bendrosios paskirties kortelė);
+
+Punkto pakeitimai:
+
+Nr. V-83, 2021-01-15, paskelbta TAR 2021-01-15, i. k. 2021-00678
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+ 
+
+
+20.2. „2“ – psichikos sveikatos priežiūros paslaugos;
+
+
+20.3. „3“ – skubiosios medicinos pagalbos skyriaus paslaugos;
+
+Punkto pakeitimai:
+
+Nr. V-1627, 2020-07-09, paskelbta TAR 2020-07-15, i. k. 2020-15787
+
+ 
+
+
+20.4. „4“ – dienos stacionaro paslaugos;
+
+
+20.5. „5“ – odontologijos paslaugos;
+
+
+20.6. „6“ – ambulatorinės reabilitacijos paslaugos;
+
+Punkto pakeitimai:
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+ 
+
+
+20.7. „7“ – kitų grupių paslaugos.
+
+
+20.8. „8“ – pirminės ambulatorinės asmens sveikatos priežiūros paslaugos dėl būtinosios pagalbos suteikimo, už kurias mokamas skatinamasis priedas, ir GMP paslaugos (pacienčių transportavimo dėl normalaus ar gresiančio priešlaikinio gimdymo bei laikotarpio po gimdymo patologijos ir pacientų, kuriems namuose taikoma DPV, pervežimo iš stacionarinės ASPĮ po gydymo į namus arba iš namų į stacionarinę ASPĮ toliau tirti ir (ar) gydyti);
+
+Papildyta punktu:
+
+Nr. V-39, 2013-01-15, Žin., 2013, Nr. 8-336 (2013-01-22), i. k. 1132250ISAK0000V-39
+
+Punkto pakeitimai:
+
+Nr. V-639, 2018-05-31, paskelbta TAR 2018-06-01, i. k. 2018-09030
+
+Nr. V-1627, 2020-07-09, paskelbta TAR 2020-07-15, i. k. 2020-15787
+
+ 
+
+
+20.9. „9“ – Žmogaus organų ir audinių transplantacijos programos paslaugos ir žmogaus imunodeficito viruso ligos stebėsenos laboratoriniai tyrimai.
+
+Papildyta punktu:
+
+Nr. V-39, 2013-01-15, Žin., 2013, Nr. 8-336 (2013-01-22), i. k. 1132250ISAK0000V-39
+
+ 
+
+
+21. ASPĮ gali vienu metu pradėti pildyti kelias to paties paciento korteles, 2 langelyje „Paskirtis“ nurodydama skaitmenį „1“ arba „7“, jei ASPĮ nustatyta tvarka tam tikros paslaugos turi būti registruojamos atskiroje kortelėje. ASPĮ nustatyta tvarka bendrosios paskirties kortelėje gali būti nurodomos ne tik paslaugos, išvardytos Taisyklių 20.1 punkte, bet ir paslaugos, atitinkančios skaitmenimis „2“, „4“ ir „5“ žymimą kortelės paskirtį.
+
+
+22. Jei 2 langelyje „Paskirtis“ nurodomi skaitmenys „3“ arba „6“, toje pačioje ASPĮ tuo pačiu metu gali būti pildoma tik viena to paties paciento šiuos skaitmenis atitinkančios paskirties kortelė.
+
+
+23. 3 langelyje „Kortelės Nr.“ nurodomas kortelės numeris. Kortelei numeris suteikiamas centralizuotai jos užregistravimo informacinėje sistemoje „Sveidra“ metu. Kortelės numerio 4 skaitmenys atitinka metus, kuriais pacientui suteikiama paslauga, 7 skaitmenys atitinka informacinės sistemos „Sveidra“ centralizuotai ASPĮ suteikiamą nuoseklųjį kortelės numerį, dar 2 skaitmenys rašomi, jei kortelė tikslinama arba anuliuojama. Jei kortelė tikslinama pirmą kartą, rašomi skaitmenys 01, jei kortelė tikslinama antrą kartą – 02 ir t. t. Jei kortelė anuliuojama, rašomi skaitmenys 99.
+
+
+24. 4 langelyje „Susijusio dokumento Nr.“ nurodomas ambulatorinės asmens sveikatos istorijos numeris arba kito, susijusio su paciento gydymu, dokumento numeris. Skubiosios medicinos pagalbos skyriuose, kai 2 langelyje „Paskirtis“ nurodomas skaitmuo „3“, 4 langelis nepildomas arba įrašomas ASPĮ suteiktas kortelės numeris.
+
+Punkto pakeitimai:
+
+Nr. V-1627, 2020-07-09, paskelbta TAR 2020-07-15, i. k. 2020-15787
+
+ 
+
+
+25. 5 A langelis „Pirminė“ turi būti žymimas (?) pirmą kartą pildant paciento kortelę.
+
+
+26. 5 B langelis „Tikslinamoji“ žymimas (?) tikslinant pirminę kortelę.
+
+
+27. 5 C langelis „Anuliuojamoji“ žymimas (?) anuliuojant pirminę kortelę.
+
+
+28. 6 langelis „Tikslinamos pirminės kortelės Nr.“ pildomas tikslinant arba anuliuojant kortelę – įrašomas pirminės kortelės numeris.
+
+
+29. I dalies „Bendroji dalis“ skyrius „Bendrieji asmens duomenys“ pildomas taip:
+
+
+29.1. 7 langelyje „Asm. kodas“ rašomas paciento asmens kodas pagal asmens tapatybę patvirtinantį dokumentą. Išimtims, kai šis langelis nepildomas, priskiriama:
+
+
+29.1.1. kūdikis iki 3 mėnesių, neturintis asmens identifikavimo dokumentų;
+
+
+29.1.2. užsienietis, kuriam nesuteiktas asmens kodas Lietuvos Respublikos gyventojų registre (toliau – Gyventojų registras);
+
+
+29.1.3. neidentifikuotas asmuo – langelis gali būti nepildomas tik tuomet, kai 2 langelyje „Paskirtis“ įrašomas skaitmuo „3“;
+
+
+30. 8 langelyje „Motinos asm. kodas“ rašomas kūdikio motinos asmens kodas. Pildoma tik tuo atveju, jeigu kūdikis yra iki 3 mėnesių ir neturi asmens identifikavimo dokumentų.
+
+
+31. 9 langelyje „DIK“ įrašomas draudžiamojo identifikavimo kodas pagal Draudžiamųjų registrą.
+
+
+32. 10 langelis „Vardas“ ir 11 langelis „Pavardė“ pildomi pagal asmens tapatybę patvirtinančių dokumentų duomenis ir turi sutapti su Draudžiamųjų registro duomenimis. Išimtims priskiriamas:
+
+
+32.1. kūdikis iki 3 mėnesių, neturintis asmens identifikavimo dokumentų. Šiuo atveju 8 langelyje „Motinos asm. kodas“ nurodomas įgaliotojo asmens (motinos) kodas;
+
+
+32.2. užsienietis, kuriam nesuteiktas asmens kodas Gyventojų registre ir kuris neįregistruotas Draudžiamųjų registre;
+
+
+32.3. neidentifikuotas asmuo – langelis nepildomas arba įrašomas asmens nurodytas vardas ir pavardė arba jį lydinčių asmenų nurodytas asmens vardas ir pavardė.
+
+
+33. 12 langelis „Nuolatinis LR gyventojas“ žymimas (?), jei pacientas yra nuolatinis Lietuvos Respublikos gyventojas pagal Draudžiamųjų registrą. Požymis nustatomas ir užpildomas automatiškai kortelės registravimo informacinėje sistemoje „Sveidra“ metu.
+
+
+34. 13 langelyje „Gimimo data“ pagal asmens tapatybę patvirtinančių dokumentų duomenis įrašomi paciento gimimo metai, mėnuo ir diena. Šiame langelyje įrašyta gimimo data turi sutapti su Draudžiamųjų registre nurodyta gimimo data. Neregistruotų naujagimių gimimo data įrašoma pagal medicinos dokumentuose nurodytą gimimo datą. Neidentifikuoto asmens gimimo data nenurodoma arba įrašoma jo paties nurodyta gimimo data arba lydinčiųjų asmenų nurodyta jo gimimo data.
+
+
+35. 14 langelyje „Lytis“ nurodoma paciento lytis pagal Draudžiamųjų registro duomenis. Šio langelio duomenis prireikus galima koreguoti, įrašant vieną iš keturių skaitmenų: 1 – vyriškoji, 2 – moteriškoji, 3 – hermafroditas arba neaiškios lyties, 9 – nežinoma. Langelis pildomas pagal asmens tapatybę patvirtinančių dokumentų arba medicinos dokumentų duomenis.
+
+
+36. 15 A ir 15 B langelių grupėje „Amžius“ pildomas vienas iš dviejų – 15 A arba 15 B – langelis (jeigu pildoma įtraukto į Draudžiamųjų registrą asmens kortelė, 15 A langelis „metai“ ir 15 B langelis „dienos“ duomenys apskaičiuojami ir užpildomi automatiškai kortelės registravimo informacinėje sistemoje „Sveidra“ metu):
+
+
+36.1. 15 A langelyje „metai“ įrašomas paciento amžius metais (nuo 1 iki 124 metų);
+
+
+36.2. 15 B langelyje „dienos“ įrašomas paciento amžius dienomis (nuo 1 iki 364/5 dienų). Amžius dienomis rašomas tik tuomet, jei pacientas yra jaunesnis nei vienerių metų. Amžius metais ir (arba) dienomis apskaičiuojamas iš kortelės pildymo pradžios datos atimant gimimo datą. Naujagimių, kurių gimimo data sutampa su kortelės pildymo pradžios data, amžius lygus 1 dienai. Pacientų, kurie neturi asmens tapatybę patvirtinančių dokumentų, gimimo data gali būti nenurodoma, tačiau amžius dienomis arba metais turi būti įrašomas.
+
+
+37. 16 langelyje „Tel.“ įrašomas paciento nurodytas telefono numeris.
+
+
+38. 17 A, 17 B, 17 C, 17 D ir 17 E langelių grupė „Adresas“ skirta paciento gyvenamosios vietos adresui nurodyti:
+
+
+38.1. 17 A langelyje „valstybė“ nurodoma valstybė, kurioje pacientas gyvena;
+
+
+38.2. 17 B langelis „kaimas“ žymimas (?), jei pacientas gyvena kaime;
+
+
+38.3. 17 C langelis „miestas“ žymimas (?), jei pacientas gyvena mieste;
+
+
+38.4. 17 D langelyje „savivaldybė“ įrašomas savivaldybės kodas;
+
+
+38.5. 17 E langelyje nurodoma gatvė, namo numeris, buto numeris, kaimo, miesto arba rajono pavadinimas. Jei pildoma užsieniečio, neregistruoto Draudžiamųjų registre, kortelė, nurodoma gyvenamosios vietos valstybė. Jei Draudžiamųjų registre nurodyta gyvenamoji vieta nesutampa su paciento nurodyta gyvenamąja vieta, adreso duomenys koreguojami, nurodant faktinį gyvenamosios vietos adresą.
+
+
+39. 18 A ir 18 B langelių grupė „PAASPĮ“ skirta PAASPĮ, prie kurios pacientas yra prisirašęs, arba jos padalinio, jei pacientas prie jo prisirašęs, duomenims nurodyti (18 A ir B langeliai užpildomi automatiškai kortelės registravimo informacinėje sistemoje „Sveidra“ metu. Draudžiamųjų registre neregistruoto naujagimio kortelėje nurodoma PAASPĮ, prie kurios yra prisirašiusi naujagimio motina):
+
+
+39.1. 18 A langelyje įrašomas PAASPĮ arba jos padalinio kodas pagal Juridinių asmenų registrą;
+
+
+39.2. 18 B langelyje nurodomas PAASPĮ arba jos padalinio pavadinimas.
+
+
+40. 19 A, 19 B, 19 C, 19 D, 19 E ir 19 F langelių grupėje „Draudimas“:
+
+
+40.1. pažymimas (√) vienas iš keturių langelių: 19 A langelis „apdraustas PSD“, 19 B langelis „apdraustas ES, EEE šalyje ar Šveicarijoje“, 19 C langelis „neapdraustas“ arba 19 G langelis „VB“. Informacija turi atitikti Draudžiamųjų registro arba asmens pateikto dokumento, patvirtinančio draudimą, arba dokumento, patvirtinančio asmens teisę gauti Privalomojo sveikatos draudimo fondo (toliau – PSDF) ar valstybės biudžeto lėšomis apmokamą paslaugą, duomenis kortelės pildymo pradžios dieną. 19 A langelis „apdraustas PSD“, 19 C langelis „neapdraustas“ ir 19 G langelis „VB“ užpildomi automatiškai pagal Draudžiamųjų registro duomenis kortelės pildymo pradžios dieną;
+
+
+40.2. jei pažymimas 19 B langelis „apdraustas ES, EEE šalyje ar Šveicarijoje“, 19 D langelyje „valstybė“ įrašoma valstybė, kurioje pacientas yra apdraustas. Jei pažymimas 19 G langelis „VB“, 19 D langelyje „valstybė“ įrašoma paciento ankstesnės gyvenamosios vietos valstybė (jei pacientas yra užsienietis) arba „Lietuva“ (jei pacientas yra Lietuvos Respublikos pilietis);
+
+
+40.3. jei pažymimas 19 B langelis „apdraustas ES, EEE šalyje ar Šveicarijoje“, 19 E langelyje „draudimo dok. / kateg.:“ įrašomas draudimą ir teisę gauti sveikatos priežiūros paslaugas patvirtinančio dokumento numeris pagal šį sąrašą: 1 – „ESDK“ (Europos sveikatos draudimo kortelė); 2 – „Sertifikatas“ (sertifikatas, laikinai pakeičiantis Europos sveikatos draudimo kortelę); 3 – „E112“ (E 112 formos pažyma); 4 – „E123“ (E 123 formos pažyma); 5 – „S2“ (S2 formos dokumentas); 6 – „DA1“ (DA1 formos dokumentas); 9 – „Kitas“ (kitas dokumentas). Skaitmenimis „1“ ir „2“ žymimi dokumentai patvirtina asmens teisę gauti Reglamento (EB) Nr. 883/2004 19 (1) straipsnyje numatytą medicinos pagalbą, jei ji būtina dėl asmens sveikatos būklės lankymosi Lietuvoje metu, atsižvelgiant į numatomą buvimo Lietuvoje trukmę. Skaitmenimis „3“ ir „5“ žymimi dokumentai patvirtina asmens teisę gauti Reglamento (EB) Nr. 883/2004 20 (2) straipsnyje nurodytą planinę medicinos pagalbą. Skaitmenimis „4“ ir „6“ žymimi dokumentai patvirtina asmens teisę gauti Reglamento (EB) Nr. 883/2004 19 (1) straipsnyje nurodytą būtinąją medicinos pagalbą dėl nelaimingo atsitikimo darbe ar profesinės ligos. Jei pažymimas 19 G langelis „VB“, 19 E langelyje „draudimo dok. / kateg.:“ automatiškai įrašomas skaičius, žymintis atitinkamą valstybės biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų kategoriją: 10 – „VP“ (visos asmens sveikatos priežiūros paslaugos, kurios, vadovaujantis teisės aktais, yra kompensuojamos ir PSDF biužeto lėšomis), 11 – „BMP“ (būtinosios medicinos pagalbos paslaugos, apimančios būtinosios medicinos pagalbos ir būtinąsias asmens sveikatos priežiūros paslaugas), 12 – „BMP neapdraustam“ (būtinosios medicinos pagalbos paslaugos, apimančios būtinosios medicinos pagalbos ir būtinąsias asmens sveikatos priežiūros paslaugas, teikiamas neapdraustam PSD Lietuvos Respublikos piliečiui);
+
+
+40.4. 19 F langelyje „galioja iki“ įrašoma draudimą ir teisę gauti sveikatos priežiūros paslaugas patvirtinančio dokumento galiojimo data. 19 F langelis pildomas tuo atveju, jei pažymimas 19 B langelis „apdraustas ES, EEE šalyje ar Šveicarijoje“;
+
+
+40.5. 19 G langelis „VB“ pildomas, jeigu asmeniui teikiamos asmens sveikatos priežiūros paslaugos bus apmokamos valstybės biudžeto lėšomis, vadovaujantis Lietuvos Respublikos sveikatos draudimo įstatymo 6 straipsnio 5 dalies ir 8 straipsnio 5 dalies nuostatomis.
+
+Punkto pakeitimai:
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+ 
+
+
+41. I dalies „Bendroji dalis“ skyrius „Bendrieji apsilankymų duomenys“ pildomas taip:
+
+
+41.1. 20 langelyje „Pradėta pildyti (data, laikas)“ nurodoma data, kai kortelė buvo pradėta pildyti – metai, mėnuo, diena, laikas (laikas nurodomas tik pradedant teikti skubiosios medicinos pagalbos ir stebėjimo paslaugas);
+
+Punkto pakeitimai:
+
+Nr. V-1627, 2020-07-09, paskelbta TAR 2020-07-15, i. k. 2020-15787
+
+ 
+
+
+41.2. Langelis „Teikimo sąlygos“  turi būti pildomas vadovaujantis Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. balandžio 8 d. įsakymu Nr. V-208 „Dėl Būtinosios medicinos pagalbos ir būtinosios medicinos pagalbos paslaugų teikimo tvarkos bei masto patvirtinimo“, Lietuvos Respublikos sveikatos apsaugos ministro 2022 m. gegužės 17 d. įsakymu Nr. V-976 „Dėl Būtinųjų asmens sveikatos priežiūros paslaugų teikimo tvarkos ir masto aprašo patvirtinimo“ arba Reglamento (EB) Nr. 883/2004 19 (1) straipsniu: žymimas (√) vienas iš trijų langelių – 21 A langelis „būtinoji pagalba“, 21 B langelis „būtinosios paslaugos“ arba 21 C langelis „kita“;
+
+Punkto pakeitimai:
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+ 
+
+
+41.3. 22 A, 22 B, 22 C, 22 D, 22 E, 22 F, 22 G ir 22 H langelių grupė „Atvyko“ pildoma taip:
+
+
+41.3.1. 22 A langelis „taip“ žymimas (?), jei pacientas atvyksta pagal siuntimą, išduotą ASPĮ arba jos padalinio. Nėščiosios, gimdyvės ir naujagimio kortelė (forma Nr. 113/a) prilyginama siuntimui,
+
+
+41.3.2. 22 B langelis „ne“ žymimas (?), jei pacientas atvyksta neturėdamas ASPĮ arba jos padalinio išduoto siuntimo,
+
+
+41.3.3. 22 C langelis „taip“ žymimas (?), jei pacientas yra atvežtas GMP brigados,
+
+
+41.3.4. 22 D langelis „ne“ žymimas (?), jei pacientas nėra atvežtas GMP brigados,
+
+
+41.3.5. 22 E langelyje „Siunčiančioji ASPĮ“ rašomas siunčiančiosios ASPĮ arba jos padalinio kodas pagal Juridinių asmenų registrą,
+
+
+41.3.6. 22 F langelyje rašomas siunčiančiosios ASPĮ arba jos padalinio pavadinimas,
+
+
+41.3.7. 22 G langelyje „Siuntimo priežastis (TLK-10-AM)“ nurodomas ligos kodas pagal Tarptautinės statistinės ligų ir sveikatos sutrikimų klasifikacijos dešimtąjį pataisytą ir papildytą leidimą „Sisteminis ligų sąrašas“, Australijos modifikaciją (toliau – TLK-10-AM), remiantis siuntimo duomenimis. Jei pacientą be siuntimo atgabena GMP brigada, 22 G langelis užpildomas pagal GMP paciento siuntimo formos Nr. 114/a duomenis,
+
+
+41.3.8. 22 H langelyje nurodoma siuntimo priežastis pagal TLK-10-AM. Jei pacientą be siuntimo atgabena GMP brigada, 22 H langelis užpildomas pagal GMP paciento siuntimo formos Nr. 110/a „Greitosios medicinos pagalbos kvietimo kortelė“ duomenis,
+
+Punkto pakeitimai:
+
+Nr. V-1627, 2020-07-09, paskelbta TAR 2020-07-15, i. k. 2020-15787
+
+ 
+
+
+41.3.9. 22 A–22 G langeliai privalo būti pildomi, jei pacientas atvyksta su siuntimu (iš kitos ASPĮ arba jeigu toje pačioje ASPĮ pradedama pildyti nauja kortelė);
+
+Punkto pakeitimai:
+
+Nr. V-711, 2013-07-22, Žin., 2013, Nr. 82-4092 (2013-07-27), i. k. 1132250ISAK000V-711
+
+ 
+
+
+41.4. 23 A ir 23 B langelių grupėje „Ar apmokama?“ 23 A langelis „taip“ arba 23 B langelis „ne“ užpildomas automatiškai kortelės pildymo pradžios dieną (data, kai kortelė pradedama pildyti, nurodoma 20 langelyje). 23 A ar 23 B langelių duomenys gali nesutapti su III dalies „Apsilankymai“ 42 skilties „Ar apmokama?“ duomenimis, nes ši skiltis pildoma automatiškai pagal Draudžiamųjų registro duomenis apsilankymo registravimo dieną, nurodytą III dalies „Apsilankymai“ 32 skiltyje „Apsilankymo data“.
+
+Punkto pakeitimai:
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+ 
+
+
+42. II dalis „Diagnozės“ pildoma visada, išskyrus atvejus, kai 2 langelyje „Paskirtis“ nurodomas skaitmuo „6“, ir atvejus, kai asmens sveikatos priežiūros paslaugą suteikia gydytojas specialistas (echoskopuotojas, endoskopuotojas, klinikinis fiziologas, radiologas):
+
+ 
+
+Punkto pakeitimai:
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+
+42.1. 24 skiltyje „Data“ nurodoma diagnozės įrašymo į kortelę data;
+
+
+42.2. 25 skiltyje „Kodas pagal TLK-10-AM“ nurodomas diagnozės kodas pagal TLK-10-AM;
+
+Punkto pakeitimai:
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+ 
+
+
+42.3. 26 skiltyje „Pavadinimas pagal TLK-10-AM“ nurodomas diagnozės pavadinimas pagal TLK-10-AM;
+
+Punkto pakeitimai:
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+ 
+
+
+42.4. 27 skiltyje „+/-/0“ rašomas ženklas „+“, kai nustatoma ūminė arba lėtinė liga (jei lėtinė liga diagnozuojama pirmą kartą gyvenime), ženklas „–“ rašomas, kai einamaisiais metais pirmą kartą nustatoma lėtinė liga, diagnozuota anksčiau, skaitmuo „0“ rašomas, kai einamaisiais metais pakartotinai diagnozuojama lėtinė liga;
+
+
+42.5. 28 skiltyje „Traumos priežastis“ traumos atveju nurodoma traumos priežastis, įrašant atitinkamą skaitmenį pagal šį sąrašą: 1 – transporto įvykis, 2 – trauma, siejama su darbu, 3 – trauma viešoje vietoje (išskyrus transporto įvykius), 4 – trauma buityje, 5 – trauma sporto renginiuose (išskyrus renginius ugdymo ir mokymo įstaigose), 6 – trauma ugdymo ir mokymo įstaigoje, 7 – tyčinis susižalojimas, 8 – pasikėsinimas, 9 – kitos ir nepatikslintos traumos;
+
+
+42.6. Registruojant traumas pildoma ne tik 28 skiltis, bet ir pagal TLK-10-AM nurodomas traumos (sužalojimo), išorinės priežasties, įvykio vietos ir veiklos, dėl kurios asmuo nukentėjo, pavadinimai ir kodai.
+
+Punkto pakeitimai:
+
+Nr. V-1627, 2020-07-09, paskelbta TAR 2020-07-15, i. k. 2020-15787
+
+ 
+
+
+42.7. traumos priežastis nurodoma tik pirmą kartą registruojant traumą (žymimą ženklu „+“). Registruojant liekamuosius reiškinius po traumos, jos priežastis nenurodoma;
+
+
+42.8. vienoje kortelėje gali būti registruojamos kelios patikslintos diagnozės. Jei kortelėje nėra įrašyta nė vienos aiškios patikslintos diagnozės, įrašoma nepatikslinta, neaiški diagnozė, žymima skaitmeniu „0“. Ligas ir traumas nurodo gydantysis specialistas arba specialistas, patikslinęs (galutinai patvirtinęs) diagnozę.
+
+Punkto pakeitimai:
+
+Nr. V-711, 2013-07-22, Žin., 2013, Nr. 82-4092 (2013-07-27), i. k. 1132250ISAK000V-711
+
+ 
+
+Punkto pakeitimai:
+
+Nr. V-711, 2013-07-22, Žin., 2013, Nr. 82-4092 (2013-07-27), i. k. 1132250ISAK000V-711
+
+ 
+
+
+43. Kortelės III dalyje „Apsilankymai“ nurodomos visos suteiktos paslaugos. Ši dalis pildoma taip:
+
+
+43.1. 29 langelyje „Kortelės Nr.“ nurodomas tas pats kortelės numeris kaip ir 3 langelyje „Kortelės Nr.“. 29 langelis užpildomas automatiškai kortelės registravimo informacinėje sistemoje „Sveidra“ metu;
+
+
+43.2. 30 langelyje „Susijusio dokumento Nr.“ nurodomas to paties dokumento, kaip ir 4 langelyje „Susijusio dokumento Nr.“, numeris. 30 langelis užpildomas automatiškai kortelės registravimo informacinėje sistemoje „Sveidra“ metu;
+
+
+43.3. 31 skiltyje „Eil. Nr.“ nurodomas kortelėje registruojamos paslaugos eilės numeris;
+
+
+43.4. 32 skiltyje „Apsilankymo data“ nurodoma paslaugos suteikimo data – metai, mėnuo, diena, laikas (nurodomas tik skubiosios medicinos pagalbos ir stebėjimo paslaugos teikimo pradžios laikas);
+
+Punkto pakeitimai:
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+ 
+
+
+43.5. 33 skiltyje „Siunt. (+/-)“ rašomas ženklas „+“, jeigu paslauga teikiama pagal siuntimą. Jei siuntimas nepateikiamas, rašomas ženklas „–“. Specialisto, teikiančio asmens sveikatos priežiūros paslaugą, įrašas medicinos dokumentuose apie kitą paciento apsilankymą ir numatomą jo laiką prilyginamas siuntimui. Pirminės ambulatorinės asmens sveikatos priežiūros paslaugas teikiantys specialistai šios skilties nepildo;
+
+
+43.6. 34 skiltyje „Specialistas (v., p., spaudo Nr.)“ nurodomi paslaugą suteikusio specialisto duomenys (vardas, pavardė, spaudo numeris);
+
+
+43.7. 35 skiltyje „Paslaugos kodas“ turi būti rašomas pacientui suteiktos asmens sveikatos priežiūros paslaugos kodas pagal VLK direktoriaus patvirtintą Asmens sveikatos priežiūros paslaugų ir sveikatos programose numatytų paslaugų, už kurias mokama iš Privalomojo sveikatos draudimo fondo biudžeto, klasifikatorių;
+
+Punkto pakeitimai:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+43.8. 36 skiltis – pirmoji skilties „Paslaugos tipas“ dalis – pildoma pažymint atitinkamą skaitmenį pagal šį sąrašą:
+
+
+43.8.1. „1“ – paslaugą teikia pirminės sveikatos priežiūros specialistas,
+
+
+43.8.2. „2“ – pirmasis, ketvirtasis, septintasis ir t. t. apsilankymas dėl tos pačios priežasties pas specialistą konsultantą (konsultacija),
+
+
+43.8.3. „3“ – antrasis, trečiasis, penktasis, šeštasis, aštuntasis, devintasis ir t. t. apsilankymas dėl tos pačios priežasties pas tos pačios srities specialistą konsultantą,
+
+
+43.8.4. „5“ – mokamas apsilankymas (sumoka pats pacientas arba kita įstaiga). Šis skaičius žymimas visais atvejais, kai sveikatos priežiūros paslaugų išlaidos neapmokamos PSDF biudžeto ar valstybės biudžeto lėšomis. Jei galiojančiais teisės aktais yra ribojamas iš PSDF biudžeto finansuojamų sveikatos priežiūros paslaugų kiekis, registruojant šį kiekį viršijusias paslaugas taip pat žymimas skaitmuo „5“.
+
+Punkto pakeitimai:
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+ 
+
+
+43.8.5. ambulatorinio gydymo ar tyrimo epizodas (toliau – epizodas) yra paciento lankymasis ambulatorinėje gydymo įstaigoje pas specialistą (-us) dėl konkrečios priežasties (priežasčių). Kiekvienas ūmios ligos ar lėtinės ligos paūmėjimo atvejis laikomas nauju epizodu, jei prieš tai buvęs šios ligos epizodas yra pasibaigęs, t. y. nebuvo tęsiamas gydymas ar ilgalaikis stebėjimas. Kiekvieno epizodo konsultacijos skaičiuojamos iš naujo, t. y. mokama už pirmą, ketvirtą, septintą ir t. t. apsilankymus, nepaisant to, kiek apsilankymų buvo ankstesnio epizodo metu;
+
+
+43.9. 37 skiltis – antroji skilties „Paslaugos tipas“ dalis – pildoma pažymint reikiamą raidę ar raides pagal šį sąrašą:
+
+
+43.9.1. „L“ – apsilankymas dėl ligos, kai pacientas skundžiasi sveikata, nors liga ir nenustatoma,
+
+
+43.9.2. „B“ – būtinoji medicinos pagalba pagal sveikatos apsaugos ministro įsakymus ir kitus norminius dokumentus,
+
+
+43.9.3. „D“ – pacientas dėl šios ligos yra dispanserizuotas pas šį specialistą,
+
+
+43.9.4. „N“ – vizitas į namus,
+
+
+43.9.5. „Pr.“ – profilaktinis tikrinimas,
+
+
+43.9.6. „M“ – priėmimas kitoje ASPĮ (pvz., medicinos punkte). Taikoma tik pirminės ambulatorinės asmens sveikatos priežiūros paslaugas teikiantiems specialistams,
+
+
+43.9.7. „A“ – nelaimingas atsitikimas darbe (tarnyboje). Ši raidė žymima, jei paslaugos teikimo priežastis yra nelaimingas atsitikimas darbe (tarnyboje), kaip tai apibrėžiama Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme;
+
+Punkto pakeitimai:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+43.9.8. vienu metu gali būti žymimos raidės „D“ ir „Pr.“, jei dispanserizuotas pacientas atvyksta pasitikrinti, bet nusiskundimų neturi. Vienu metu gali būti žymimos raidės „Pr.“ ir „L“, jei pacientas atvyksta dėl profilaktinio patikrinimo ir jo metu diagnozuojama liga. Negali būti žymima raidė „B“, kartu nepažymint raidės „L“. Kortelės, kurios 2 langelyje „Paskirtis“ nurodomas skaitmuo „3“ arba „4“, 37 skiltyje negali būti žymimos raidės „Pr.“, „N“ arba „M“. Kortelės, kurios 2 langelyje „Paskirtis“ nurodomas skaitmuo „6“, 37 skiltyje negali būti žymimos raidės „Pr.“ arba „M“;
+
+Punkto pakeitimai:
+
+Nr. V-965, 2013-10-21, Žin., 2013, Nr. 112-5595 (2013-10-26), i. k. 1132250ISAK000V-965
+
+ 
+
+
+43.10. 38 skiltyje „kodas pagal TLK-10-AM“ nurodomas apsilankymo priežasties kodas pagal TLK-10-AM;
+
+
+43.11. 39 skiltis „Tikslinama paslauga“ pildoma tuo atveju, kai antrojo ar trečiojo apsilankymo dėl tos pačios priežasties pas tos pačios srities specialistą metu suteikta paslauga (konsultacija) yra brangesnė už paslaugą (konsultaciją), suteiktą ankstesnio (-ių) apsilankymo (-ų)  metu. Šiuo atveju 39 skiltyje  nurodomas ankstesnio apsilankymo (kurio bazinė kaina didžiausia) dėl šios priežasties pas specialistą konsultantą metu suteiktos paslaugos kodas. Skiltis pildoma kiekvieną kartą, jei brangiau kainuojanti specializuota ambulatorinė asmens sveikatos priežiūros paslauga pacientui buvo suteikta ir per antrąjį, ir per trečiąjį apsilankymą;
+
+TAR pastaba: papunkčio nuostatos taikomos asmens sveikatos priežiūros paslaugoms, suteiktoms nuo 2023 m. balandžio 1 d.
+
+Punkto pakeitimai:
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+ 
+
+
+43.12. 40 skiltyje „Rezultatas“ nurodomas apsilankymo rezultatas, įrašant atitinkamą skaitmenį pagal šį sąrašą:
+
+
+43.12.1. „1“ – gydymas ir (ar) ištyrimas baigtas. Nurodoma pasibaigus gydymui (ūmioms ligoms ar lėtinių ligų paūmėjimams, jei pacientas nedispanserizuotas) ar ilgalaikiam paciento stebėjimui,
+
+Punkto pakeitimai:
+
+Nr. V-1627, 2020-07-09, paskelbta TAR 2020-07-15, i. k. 2020-15787
+
+ 
+
+
+43.12.2. „2“ – gydymas ir (ar) ištyrimas tęsiamas. Nurodoma, kai tęsiamas nedispanserizuoto paciento gydymas ir (ar) ištyrimas,
+
+Punkto pakeitimai:
+
+Nr. V-1627, 2020-07-09, paskelbta TAR 2020-07-15, i. k. 2020-15787
+
+ 
+
+
+43.12.3. „3“ – ilgalaikis stebėjimas tęsiamas. Nurodomas, kai tęsiamas dispanserinis (ilgalaikis) stebėjimas (gydymas),
+
+
+43.12.4. „4“ – siuntimas konsultuoti. Nurodoma, kai pacientas siunčiamas konsultuoti toje pačioje ASPĮ arba jam skiriama pakartotinė konsultacija toje pačioje ASPĮ,
+
+
+43.12.5. „5“ – siuntimas į kitą ASPĮ dėl ambulatorinio gydymo ar tyrimo. Nurodoma, kai pacientas siunčiamas į kitą ASPĮ dėl tolesnio ambulatorinio gydymo ar tyrimo,
+
+
+43.12.6. „6“ – siuntimas į kitą ASPĮ dėl stacionarinio gydymo,
+
+
+43.12.7. „7“ – hospitalizavimas tos pačios ASPĮ stacionare,
+
+
+43.12.8. „8“ – siuntimas gauti stacionarinės reabilitacijos paslaugas. Nurodoma, kai pacientui skiriamas reabilitacinis ar antirecidyvinis gydymas;
+
+Punkto pakeitimai:
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+ 
+
+
+43.12.9. „9“ – siuntimas ambulatorinės reabilitacijos paslaugoms gauti,
+
+
+43.12.10. „10“ – kita. Nurodoma, kai pasibaigia paciento profilaktinio tikrinimo ar tyrimo epizodas ir kitais pirmiau neapibrėžtais atvejais,
+
+
+43.12.11. „99“ – mirties liudijimo išrašymas;
+
+
+43.13. 41 skiltyje „Kaina (balais)“ nurodoma sveikatos apsaugos ministro įsakymu patvirtinta asmens sveikatos priežiūros paslaugos bazinė kaina balais, galiojanti apsilankymo dieną. Eilutėje, kurioje pildomi paslaugos duomenys, 41 skilties langelis paliekamas tuščias (arba įrašomas skaitmuo „0“), jei šioje eilutėje 36 skilties „Paslaugos tipas“ langelyje nurodomas skaitmuo „1“ arba „5“, išskyrus pirminės ambulatorinės asmens sveikatos priežiūros paslaugas, už kurias mokamas skatinamasis priedas, paliatyviosios pagalbos ir prevencines paslaugas. Taip pat 41 skiltis nepildoma (arba įrašomas skaitmuo „0“), jei nurodant specialisto konsultacijas 36 skiltyje „Paslaugos tipas“ įrašomas skaitmuo „3“, išskyrus Taisyklių 43.11 punkte nurodytus atvejus (tokiais atvejais 41 skiltyje rašomas 35 ir 39 skiltyse nurodytų paslaugų kainų skirtumas balais). 41 skiltis pildoma automatiškai kortelės registravimo informacinėje sistemoje „Sveidra“ metu;
+
+Punkto pakeitimai:
+
+Nr. V-1627, 2020-07-09, paskelbta TAR 2020-07-15, i. k. 2020-15787
+
+ 
+
+
+43.14. 42 skiltis „Ar apmokama?“ pildoma automatiškai pagal Draudžiamųjų registro duomenis apsilankymo registravimo dieną;
+
+Punkto pakeitimai:
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+ 
+
+
+43.15. A lentelė pildoma, jeigu suteikiant paslaugą pacientui yra atliekamos medicininės intervencijos. Šiuo atveju vadovaujamasi Medicininių intervencijų klasifikacija (angl. The Australian Classification of Health Interventions, toliau – ACHI):
+
+
+43.15.1. jeigu pildoma B ar C formos III dalis „Apsilankymai, 31 A skiltyje „Apsilankymo eilės Nr.“ nurodomo apsilankymo, kurio metu atliekamos medicininės intervencijos, eilės numeris turi sutapti su 31 skiltyje „Apsilankymo eil. Nr.“ nurodytu šio apsilankymo numeriu,
+
+
+43.15.2. 43 A skiltyje „Atlikimo data“ nurodoma medicininės intervencijos atlikimo data (jeigu intervencija atliekama teikiant skubiosios medicinos pagalbos paslaugas, nurodomas jos atlikimo pradžios laikas), 43 B skiltyje „kodas pagal ACHI“ nurodomas medicininės intervencijos kodas pagal ACHI;
+
+Punkto pakeitimai:
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+ 
+
+
+43.15.3. 44 skiltyje „pavadinimas pagal ACHI“ rašomas medicininės intervencijos pavadinimas pagal ACHI,
+
+
+43.15.4. 45 skiltyje „Išlaidos kontrastui (eurais)“ nurodomos išlaidos kontrastui eurais, kuris naudojamas atliekant medicininę intervenciją ar brangiuosius tyrimus;
+
+Punkto pakeitimai:
+
+Nr. V-1017, 2014-09-29, paskelbta TAR 2014-10-20, i. k. 2014-14378
+
+Nr. V-1419, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21115
+
+Nr. V-1737, 2020-07-31, paskelbta TAR 2020-08-03, i. k. 2020-16809
+
+ 
+
+
+43.15.5. 46 skiltyje „Specialistas (v., p., spaudo Nr.)“ rašomas specialisto vardas, pavardė, spaudo numeris,
+
+
+43.15.6. 43–46 skiltys pildomos teikiant dienos stacionaro paslaugas, atliekant brangiuosius tyrimus ir procedūras bei teikiant paslaugas, kurių apmokėjimui turi įtakos medicininių intervencijų atlikimas (gydytojų specialistų išplėstinės konsultacijos ir konsultacijos, kai atliekamas išsamesnis ištyrimas, ambulatorinės chirurgijos, skubiosios medicinos pagalbos, ambulatorinės reabilitacijos paslaugos, pradinės ambulatorinės medicininės reabilitacijos paslaugos, teikiamos individualiai ar grupei žmonių);
+
+TAR pastaba: papunkčio nuostatos taikomos asmens sveikatos priežiūros paslaugoms, suteiktoms nuo 2023 m. balandžio 1 d.
+
+Punkto pakeitimai:
+
+Nr. V-711, 2013-07-22, Žin., 2013, Nr. 82-4092 (2013-07-27), i. k. 1132250ISAK000V-711
+
+Nr. V-1627, 2020-07-09, paskelbta TAR 2020-07-15, i. k. 2020-15787
+
+Nr. V-83, 2021-01-15, paskelbta TAR 2021-01-15, i. k. 2021-00678
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+ 
+
+
+43.16. F lentelėje pateikiami duomenys apie paciento priemokas ar (ir) mokamas paslaugas:
+
+
+43.16.1. jeigu pildoma B ar C formos III dalis „Apsilankymai“, 31 F skiltyje „Apsilankymo eilės Nr.“ nurodomo apsilankymo, kurio metu pacientas primoka už medžiagas, vaistus, procedūras, tyrimus ar kita arba jam teikiamos mokamos paslaugos, eilės numeris turi sutapti su 31 skiltyje „Apsilankymo eil. Nr.“ nurodytu šio apsilankymo numeriu,
+
+
+43.16.2. 47 skiltyje „Finansavimo šaltinis“ nurodomas vienas iš šių finansavimo šaltinių:
+
+
+43.16.2.1. „2“– mokama privataus draudimo fondo lėšomis,
+
+
+43.16.2.2. „3“ – mokama darbdavio lėšomis,
+
+
+43.16.2.3. „4“ – mokama paciento lėšomis,
+
+
+43.16.2.4. „5“ – mokama labdaros lėšomis,
+
+
+43.16.2.5 „6“ – mokama savivaldybės lėšomis,
+
+
+43.16.2.6. „7“ – mokama ASPĮ lėšomis,
+
+
+43.16.2.7. „8“ – apmoka kita ASPĮ (nurodoma, jei paslauga teikiama kitos ASPĮ pacientui jo hospitalizavimo metu),
+
+
+43.16.2.8. „9“ – kitos lėšos,
+
+
+43.16.3. jei yra keli finansavimo šaltiniai, kiekvienas finansavimo šaltinis nurodomas atskiroje eilutėje,
+
+
+43.16.4. 48–50 skiltyse nurodoma (-os) paciento primokėta (-os) suma (-os) už jam gydyti skirtas medžiagas ir (ar) vaistus, ir (ar) procedūras bei tyrimus, ir (ar) tam tikras buvimo ASPĮ sąlygas, ir (ar) kita. Iki 2014 m. gruodžio 31 d. nurodoma (-os) suma (-os) litais, nuo 2015 m. sausio 1 d. – eurais;  
+
+Punkto pakeitimai:
+
+Nr. V-1017, 2014-09-29, paskelbta TAR 2014-10-20, i. k. 2014-14378
+
+Nr. V-1419, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21115
+
+ 
+
+
+43.16.5. 47 skiltis ir 51–53 skiltys privalo būti pildomos, jei 36 skiltyje „Paslaugos tipas“ pažymimas skaitmuo „5“. Nurodoma paciento sumokėta (-os) suma (-os) už suteiktą (-as) paslaugą (-as) pagal Mokamų asmens sveikatos priežiūros paslaugų sąrašą ir kainas ir (ar)  paciento sumokėta (-os) suma (-os) už paslaugas, gautas ne eilės tvarka, ir (ar) kita pagal Mokamų paslaugų teikimo ir apmokėjimo tvarką. Iki 2014 m. gruodžio 31 d. šiame langelyje suma nurodoma litais, nuo 2015 m. sausio 1 d. – eurais;
+
+Punkto pakeitimai:
+
+Nr. V-1017, 2014-09-29, paskelbta TAR 2014-10-20, i. k. 2014-14378
+
+Nr. V-1419, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21115
+
+ 
+
+
+43.17. V lentelėje pateikiami duomenys apie pacientui skirtus centralizuotai perkamus protezus, vaistus ar medicinos pagalbos priemones (toliau – MPP):
+
+
+43.17.1. jeigu pildoma B ar C formos III dalis „Apsilankymai“, 31 V skiltyje „Apsilankymo eilės Nr.“ nurodomo apsilankymo, kurio metu pacientui skiriami centralizuotai perkami vaistai ar MPP, eilės numeris turi sutapti su 31 skiltyje „Apsilankymo eil. Nr.“ nurodytu šio apsilankymo numeriu,
+
+
+43.17.2. 54 skiltyje „Vaisto arba MPP ID“ nurodomas pacientui skirto centralizuotai perkamo vaisto arba MPP identifikavimo kodas pagal Centralizuotai perkamų vaistinių preparatų ir medicinos pagalbos priemonių klasifikatorių, tvarkomą VLK,
+
+
+43.17.3. 55 skiltyje „CP straipsnis“ nurodomas centralizuoto pirkimo straipsnio kodas pagal Centralizuotų pirkimų straipsnių klasifikatorių, tvarkomą VLK,
+
+
+43.17.4. 56 skiltyje „Vaisto arba MPP pavadinimas“ rašomas pacientui skirto centralizuotai perkamo vaisto arba MPP pavadinimas,
+
+
+43.17.5. 57 skiltyje „Matas“ rašoma pacientui skirto centralizuotai perkamo vaisto arba MPP matas (pvz., „tab.“, „but.“ ir t.t.),
+
+
+43.17.6. 58 skiltyje „Kiekis“ nurodomas pacientui skirto centralizuotai perkamo vaisto arba MPP kiekis,
+
+
+43.17.7. 59 skiltyje „Kaina“ rašoma pacientui skirto centralizuotai perkamo vaisto arba MPP kaina: iki 2014 m. gruodžio 31 d. ji nurodoma litais, nuo 2015 m. sausio 1 d. – eurais. Ši skiltis pildoma automatiškai kortelės registravimo informacinėje sistemoje „Sveidra“ metu. Centralizuotai perkamo vaisto arba MPP kaina turi atitikti paciento gydymo šiuo vaistu ar MPP metu galiojančias jų kainas, nurodytas Centralizuotai perkamų vaistinių preparatų ir medicinos pagalbos priemonių klasifikatoriuje.
+
+Punkto pakeitimai:
+
+Nr. V-1017, 2014-09-29, paskelbta TAR 2014-10-20, i. k. 2014-14378
+
+Nr. V-1419, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21115
+
+ 
+
+
+43.18. T lentelėje duomenys pildomi teikiant PAASP paslaugas (šeimos gydytojo arba vidaus ligų gydytojo, vaikų ligų gydytojo, akušerio ginekologo ir chirurgo, teikiančių PAASP paslaugas kartu, ar šeimos gydytojo komandos). T lentelėje pateikiami šie duomenys apie pacientui skirtus tyrimus: 
+
+
+43.18.1. 60 skiltyje  „Tyrimo kodas“ rašomas pacientui skirto tyrimo kodas;
+
+
+43.18.2. 61 skiltyje „Tyrimo pavadinimas“ rašomas pacientui skirto tyrimo pavadinimas;
+
+
+43.18.3. 62 skiltyje „Ar apmokama?“ rašomas ženklas „+“, jeigu tyrimas atliekamas PSDF ar valstybės biudžeto lėšomis. Jeigu tyrimas atliekamas ne PSDF ar valstybės biudžeto lėšomis, rašomas ženklas „–“;
+
+Papunkčio pakeitimai:
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+ 
+
+
+43.18.4. 63 skiltyje „Kaina“ rašoma pacientui skirto tyrimo kaina. Ši skiltis pildoma, jeigu 62 skiltyje įrašomas ženklas „–“.
+
+Papildyta papunkčiu:
+
+Nr. V-671, 2023-06-13, paskelbta TAR 2023-06-13, i. k. 2023-11699
+
+ 
+
+
+44. IV dalies „Baigiamoji dalis“ duomenys rašomi baigiant pildyti kortelę:
+
+
+44.1. 64 langelyje „Baigta pildyti (data, laikas)“ nurodoma kortelės baigimo pildyti data. Jei kortelė baigiama pildyti skubiosios medicinos pagalbos skyriuje, nurodomas ir baigimo ją pildyti laikas; 
+
+
+44.2. 65 langelyje „Pateikta (data, laikas)“ rašoma kortelės duomenų pateikimo informacinei sistemai „Sveidra“ data ir laikas. Pildoma automatiškai duomenų pateikimo informacinei sistemai „Sveidra“ metu;
+
+
+44.3. 66 langelyje „Bendra suma (balais)“ nurodoma bendra suma, skiriama iš PSDF ar valstybės biudžeto įrašytų į kortelę asmens sveikatos priežiūros paslaugų išlaidoms apmokėti;
+
+Papunkčio pakeitimai:
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+ 
+
+
+44.4. 67 langelyje „Teritorinė ligonių kasa“ nurodoma TLK, kompensuojanti įrašytų į kortelę asmens sveikatos priežiūros paslaugų išlaidas;
+
+
+44.5. 68 numeriu pažymėtoje vietoje gydytojas arba kitas specialistas, baigiantis pildyti kortelę, nurodo savo vardą, pavardę ir pasirašo.
+
+Punkto pakeitimai:
+
+Nr. V-671, 2023-06-13, paskelbta TAR 2023-06-13, i. k. 2023-11699
+
+ 
+
+
+45. V dalies „Gydytojų įrašai“ pildymas:
+
+
+45.1. ši dalis pildoma skubiosios medicinos pagalbos skyriuose, kai pacientui teikiamos skubiosios medicinos pagalbos ar stebėjimo paslaugos;
+
+
+45.2. šioje dalyje pateikiama medicininė informacija apie paciento apžiūrą, atliktus tyrimus ir suteiktas konsultacijas. Skubiosios medicinos pagalbos skyrių konsultacijų kabinetuose dirbantys II lygio gydytojai specialistai šios dalies nepildo – jie pildo ambulatorinę asmens sveikatos istoriją.
+
+Punkto pakeitimai:
+
+Nr. V-1627, 2020-07-09, paskelbta TAR 2020-07-15, i. k. 2020-15787
+
+ 
+
+
+IV SKYRIUS
+YPATINGI KORTELĖS PILDYMO ATVEJAI
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+46. Jei nepasibaigus vienam ambulatorinio gydymo ar tyrimo epizodui (kurio metu pacientas lankėsi ambulatorinėje ASPĮ pas specialistą dėl konkrečios priežasties), pacientas atvyksta registruotis pas specialistą dėl kitos priežasties, paciento kortelėje registruojami ir tolesni apsilankymai (nauja kortelė nepildoma).
+
+
+47. Jeigu pacientas atvyksta į ASPĮ iškart dėl kelių priežasčių (ligų) arba lankosi iškart pas kelis specialistus dėl skirtingų problemų, visi apsilankymai nurodomi toje pačioje kortelėje.
+
+
+48. Jeigu pacientas pas tos pačios srities specialistą tą pačią dieną lankosi keletą kartų, nurodomas tik vienas apsilankymas.
+
+
+49. Jeigu pacientas neatvyksta pas specialistą paskirtu laiku (numatytą dieną), kortelė baigiama pildyti praėjus 30 dienų nuo jos pradėjimo pildyti dienos. Pildyti baigia specialistas, pas kurį pacientas neatvyko paskirtu laiku.
+
+
+50. Jeigu mirties liudijimą išrašo ambulatorinė ASPĮ, tai prilyginama apsilankymui ir pažymima kortelėje.
+
+
+51. Jeigu pacientas lankomas namie ne pirmą kartą, t. y. kortelė jau yra pradėta pildyti, šie vizitai žymimi kortelėje ir aprašomi asmens sveikatos istorijoje. Jeigu pirmuoju specialisto vizitu į paciento namus pradedamas gydymo epizodas, t. y. kortelė dar nėra pradėta pildyti, specialistas, grįžęs į ASPĮ, aprašo vizitą asmens sveikatos istorijoje, o registratūroje pradedama pildyti nauja kortelė.
+
+
+52. Kortelę pildo ir dienos stacionarai (priklausantys poliklinikoms ar ligoninių stacionarams). Dienos stacionaras pildo atskirą kortelę, 2 langelyje „Paskirtis“ nurodydamas skaitmenį „4“. Kiekvienas lovadienis žymimas kaip apsilankymas – atskiroje eilutėje, nurodant paslaugos kodą. Medicininių intervencijų, atliekamų teikiant dienos stacionaro paslaugas, kodai pagal ACHI nurodomi prie kiekvieno apsilankymo, o medicininių intervencijų, atliekamų teikiant psichiatrijos dienos stacionaro, vaikų ir paauglių psichiatrijos dienos stacionaro ar psichoterapijos dienos stacionaro paslaugas, kodai pagal ACHI – prie kiekvieno apsilankymo arba prie pirmojo apsilankymo, arba prie paskutiniojo apsilankymo (prie pirmojo arba paskutiniojo apsilankymo turi būti nurodomi viso gydymo kurso metu atliktų visų procedūrų kodai pagal ACHI). Mokama už kiekvieną dieną (paslaugą) (III dalies 36 skiltyje „Paslaugos tipas“ žymimas skaitmuo „2“), neviršijančią teisės aktais nustatyto PSDF ar valstybės biudžeto lėšomis apmokamų dienų (paslaugų) skaičiaus. Jeigu paciento, kuriam teikiama dienos stacionaro paslauga, gydymą būtina pratęsti ir jis hospitalizuojamas tos pačios ASPĮ stacionare, registruojant tą dieną suteiktą dienos stacionaro paslaugą 36 skiltyje „Paslaugos tipas“ nurodomas skaitmuo „3“.
+
+Punkto pakeitimai:
+
+Nr. V-1627, 2020-07-09, paskelbta TAR 2020-07-15, i. k. 2020-15787
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+ 
+
+
+53. Gydytojai radiologai kiekvieno apsilankymo metu pildo tiek apsilankymams registruoti skirtų eilučių, kiek tyrimų (nuotraukų) atlieka to apsilankymo metu. Nurodant pirmą, ketvirtą, septintą ir t. t. tyrimą, atliekamą dėl tos pačios priežasties, 36 skiltyje žymimas skaitmuo „2“, nurodant antrą, trečią, penktą, šeštą ir t. t. tyrimą, atliekamą dėl tos pačios priežasties, žymimas skaitmuo „3“.
+
+
+54. Gydytojai endoskopuotojai ir echoskopuotojai pildo tiek apsilankymams registruoti skirtų eilučių, kiek skirtingų tyrimų atlieka to paties apsilankymo metu. Nurodant pirmą, ketvirtą, septintą ir t. t. tyrimą, atliekamą dėl tos pačios priežasties, 36 skiltyje žymimas skaitmuo „2“, nurodant antrą, trečią, penktą, šeštą ir t. t. tyrimą, atliekamą dėl tos pačios priežasties, žymimas skaitmuo „3“.
+
+
+55. Gydytojai klinikiniai fiziologai pildo tiek apsilankymams registruoti skirtų eilučių, kiek skirtingų tyrimų atlieka to paties apsilankymo metu. Nurodant pirmą, ketvirtą, septintą ir t. t. tyrimą, atliekamą dėl tos pačios priežasties, 36 skiltyje žymimas skaitmuo „2“, nurodant antrą, trečią, penktą, šeštą ir t. t. tyrimą, atliekamą dėl tos pačios priežasties, žymimas skaitmuo „3“.
+
+
+56. Neteko galios nuo 2021-01-16
+
+Punkto naikinimas:
+
+Nr. V-83, 2021-01-15, paskelbta TAR 2021-01-15, i. k. 2021-00678
+
+Punkto pakeitimai:
+
+Nr. V-1127, 2016-09-30, paskelbta TAR 2016-10-03, i. k. 2016-24433
+
+Nr. V-1351, 2016-12-01, paskelbta TAR 2016-12-05, i. k. 2016-28249
+
+ 
+
+
+57. Gydytojai anesteziologai-reanimatologai kiekvieną atliktą bendrąją arba spinalinę nejautrą nurodo kaip atskirą apsilankymą.
+
+
+58. Kiekvienas brangusis tyrimas ar procedūra nurodomas kaip atskiras apsilankymas.
+
+
+59. Gydytojai oftalmologai paciento konsultacijos metu atliktą argoninio lazerio koaguliacijos ar YAG lazerio fotokoaguliacijos seansą nurodo kaip atskirą apsilankymą.
+
+
+60. Jei vieno apsilankymo pas pirminės sveikatos priežiūros specialistą metu suteikiamos kelios skirtingos paslaugos (pvz., pacientui dėl ligos apsilankius pas šeimos gydytoją kartu suteikiamos viena ar kelios paslaugos pagal prevencines programas arba pirminės ambulatorinės asmens sveikatos priežiūros paslaugos, už kurias mokamas skatinamasis priedas), pildoma tiek apsilankymams skirtų eilučių, kiek suteikiama skirtingų paslaugų.
+
+Punkto pakeitimai:
+
+Nr. V-1627, 2020-07-09, paskelbta TAR 2020-07-15, i. k. 2020-15787
+
+ 
+
+
+61. Jei į kitą ASPĮ siunčiama paciento tiriamoji medžiaga, siunčiančioji įstaiga užpildo 2 (du) formos „Biopsinės ir operacinės medžiagos siuntimas tirti“ (forma Nr. 014-1/a) egzempliorius, o tiriančioji ASPĮ gali pildyti tik elektroninę kortelę. Šiuo atveju ji privalo užtikrinti elektroninių kortelių saugojimą pagal teisės aktų reikalavimus.
+
+
+62. Ambulatorinės reabilitacijos paslaugos įrašomos atskiroje kortelėje, 2 langelyje „Paskirtis“ nurodant skaitmenį „6“. Kiekviena reabilitacijos diena žymima kaip apsilankymas atskiroje eilutėje, nurodant atitinkamą paslaugos kodą. Medicininių intervencijų, atliekamų teikiant ambulatorinės reabilitacijos paslaugas, kodai pagal ACHI nurodomi prie kiekvieno apsilankymo (įvedami tos apsilankymo dienos visų procedūrų kodai pagal ACHI) arba prie pirmojo apsilankymo, arba prie paskutiniojo apsilankymo (prie pirmojo arba paskutiniojo apsilankymo turi būti nurodomi viso reabilitacijos kurso visų atliktų procedūrų kodai pagal ACHI). Mokama už kiekvieną apsilankymą (III dalies 36 skiltyje „Paslaugos tipas“ žymimas skaitmuo „2“). Vieno reabilitacinio gydymo kurso apsilankymai nurodomi vienoje kortelėje, net jei gydymas trunka ilgiau nei 30 dienų. Tarp apsilankymų negali būti ilgesnis nei 30 dienų laiko tarpas. Kortelė baigiama pildyti tik užbaigus arba nutraukus gydymo kursą per 31 dieną nuo įrašo apie paskutinį apsilankymą dienos. Teikiant psichosocialinės reabilitacijos paslaugas kortelė informacinėje sistemoje „Sveidra“ susiejama su formos Nr. 2011T „Pranešimas apie sutikimą kompensuoti išlaidas Privalomojo sveikatos draudimo fondo lėšomis“ duomenimis. Kortelėje nurodant ambulatorinės reabilitacijos paslaugas, II dalis „Diagnozės“ nepildoma.
+
+Punkto pakeitimai:
+
+Nr. V-965, 2013-10-21, Žin., 2013, Nr. 112-5595 (2013-10-26), i. k. 1132250ISAK000V-965
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+ 
+
+
+621. Registruojant pradinės ambulatorinės medicininės reabilitacijos paslaugą, kuri teikiama individualiai, 2 langelyje „Paskirtis“ nurodomas skaitmuo „1“. Paslaugą paskyręs gydytojas ar vienas iš paslaugą teikiančių specialistų kortelėje nurodo apsilankymą ir įrašo atitinkamą paslaugos kodą. Prie šios paslaugos ACHI kodą (-us) įveda atitinkamą medicininės reabilitacijos priemonę  taikęs specialistas. Medicininių intervencijų, atliekamų teikiant pradinės medicininės reabilitacijos paslaugas, kodai pagal ACHI nurodomi prie vieno apsilankymo vienoje kortelėje, net jei gydymas trunka ilgiau nei 30 dienų. Mokama už suteiktą paslaugą, kai baigiamas taikyti atitinkamas medicininės reabilitacijos priemonių skaičius. Kortelės II dalis „Diagnozės“ nepildoma.
+
+Papildyta punktu:
+
+Nr. V-39, 2013-01-15, Žin., 2013, Nr. 8-336 (2013-01-22), i. k. 1132250ISAK0000V-39
+
+Punkto pakeitimai:
+
+Nr. V-908, 2021-04-23, paskelbta TAR 2021-04-23, i. k. 2021-08439
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+ 
+
+
+622. Registruojant pradinę ambulatorinę medicininės reabilitacijos paslaugą, kuri teikiama grupei žmonių, 2 langelyje „Paskirtis“ nurodomas skaitmuo „1“. Paslaugą paskyręs gydytojas ar vienas iš paslaugą teikiančių specialistų kortelėje nurodo apsilankymą ir įrašo atitinkamą paslaugos kodą. Prie šios paslaugos ACHI kodą (-us) įveda atitinkamą medicininės reabilitacijos priemonę taikęs specialistas. Medicininių intervencijų, atliekamų teikiant pradinės medicininės reabilitacijos paslaugas, kodai pagal ACHI nurodomi prie vieno apsilankymo vienoje kortelėje. Pildoma kiekvieno asmens, kuriam buvo suteikta ši paslauga, kortelė. Mokama už suteiktą paslaugą, kai baigiamas taikyti atitinkamas medicininės reabilitacijos priemonių skaičius. Nurodant apsilankymą, kortelės 36 skiltyje „Paslaugos tipas“ žymimas atitinkamas skaitmuo: skaitmuo „2“ priskiriamas kiekvienam paslaugą gavusiam grupės nariui. Kortelės II dalis „Diagnozės“ nepildoma.
+
+Papildyta punktu:
+
+Nr. V-39, 2013-01-15, Žin., 2013, Nr. 8-336 (2013-01-22), i. k. 1132250ISAK0000V-39
+
+Punkto pakeitimai:
+
+Nr. V-908, 2021-04-23, paskelbta TAR 2021-04-23, i. k. 2021-08439
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+ 
+
+
+623. Jeigu individualiai teikiama fizinės medicinos ir reabilitacijos gydytojo paskirta vidutinės, didelės ar didžiausios apimties pradinės medicininės reabilitacijos paslauga nebuvo suteikta visa apimtimi, kortelėje įrašas apie paskirtą paslaugą koreguojamas, pakeičiant paslaugos kodą (-us) taip, kad jis (jie) atitiktų faktiškai taikytų medicininės reabilitacijos priemonių skaičių.
+
+Papildyta punktu:
+
+Nr. V-39, 2013-01-15, Žin., 2013, Nr. 8-336 (2013-01-22), i. k. 1132250ISAK0000V-39
+
+Punkto pakeitimai:
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+ 
+
+
+63. Skubiosios medicinos pagalbos skyriuje teikiamos skubiosios medicinos pagalbos ir stebėjimo paslaugos rašomos atskiroje kortelėje, 2 langelyje „Paskirtis“ nurodant skaitmenį „3“. Jei stacionaro skubiosios medicinos pagalbos skyriuje skubiosios medicinos pagalbos ar stebėjimo paslaugos teikiamos pacientui, atvykstančiam kelis kartus tą pačią dieną, pildoma ta pati kortelė.
+
+Punkto pakeitimai:
+
+Nr. V-1627, 2020-07-09, paskelbta TAR 2020-07-15, i. k. 2020-15787
+
+ 
+
+
+64. Jei Skubiosios medicinos pagalbos skyriaus pacientas perkeliamas į stacionarą, kortelė baigiama pildyti, kiekvienam apsilankymui skirtos eilutės 36 skiltyje „Paslaugos tipas“ nurodant skaitmenį „3“, ir pridedama prie formos Nr. 003/a „Gydymo stacionare ligos istorija“.
+
+Punkto pakeitimai:
+
+Nr. V-1627, 2020-07-09, paskelbta TAR 2020-07-15, i. k. 2020-15787
+
+ 
+
+
+V SKYRIUS
+KORTELĖS TIKSLINIMO IR ANULIAVIMO TVARKA
+
+Pakeistas skyriaus pavadinimas:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+65. Pasibaigus ataskaitiniam laikotarpiui, kortelių duomenys gali būti keičiami tik TLK sutikimu.
+
+
+66. Kortelė tikslinama, jei joje pateikiami klaidingi duomenys apie pacientą ar jam suteiktas paslaugas. Jei tikslinami vieno kurio nors apsilankymo, galutinės diagnozės ar bendrosios dalies duomenys, TLK pateikiama tikslinamoji kortelė su visų apsilankymų ir diagnozių duomenimis. Naujo apsilankymo registravimas ar paciento duomenų patikslinimas nebaigtoje pildyti kortelėje nelaikomas kortelės tikslinimu.
+
+
+67. Kortelė anuliuojama, jei joje nurodytos ambulatorinės asmens sveikatos priežiūros paslaugos nebuvo suteiktos arba buvo suteiktos ne tam asmeniui, kurio kortelė pateikiama TLK.
+
+
+68. Dėl kortelės tikslinimo ar anuliavimo ASPĮ kreipiasi į TLK, užregistruodama informacinėje sistemoje „Sveidra“ atitinkamą prašymą.
+
+
+69. Kortelės ekonominiai duomenys gali būti tikslinami einamaisiais biudžetiniais metais.
+
+
+70. Kortelės klinikiniai duomenys gali būti tikslinami jos saugojimo laikotarpiu, nurodytu Lietuvos Respublikos sveikatos apsaugos ministro 1999 m. lapkričio 29 d. įsakyme Nr. 515 „Dėl sveikatos priežiūros įstaigų veiklos apskaitos ir atskaitomybės tvarkos“.
+
+Punkto pakeitimai:
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+ 
+
+
+71. Kortelės duomenys gali būti tikslinami arba anuliuojami tik TLK užregistravus informacinėje sistemoje „Sveidra“ sprendimą leisti tikslinti arba anuliuoti kortelę.
+
+ 
+
+
+_________
+
+ 
+
+Formos pakeitimai:
+
+Nr. V-39, 2013-01-15, Žin., 2013, Nr. 8-336 (2013-01-22), i. k. 1132250ISAK0000V-39
+
+ 
+
+
+ 
+
+Formos Nr. 025-1/a-LK „ASMENS AMBULATORINIO GYDYMO PRIĖMIMO SKYRIUJE APSKAITOS KORTELĖ“ PILDYMAS
+
+ 
+
+ 
+
+ 
+
+ 
+
+Priedų pakeitimai:
+
+ 
+
+forma Nr. 066/a-LK „Stacionare gydomo asmens statistinė kortelė" (pak. V-273)
+
+Papildyta priedu:
+
+Nr. V-705, 2014-06-16, paskelbta TAR 2014-06-18, i. k. 2014-07740
+
+Priedo pakeitimai:
+
+Nr. V-1017, 2014-09-29, paskelbta TAR 2014-10-20, i. k. 2014-14378
+
+Nr. V-1419, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21115
+
+Nr. V-1417, 2015-12-07, paskelbta TAR 2015-12-10, i. k. 2015-19630
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+Nr. V-1737, 2020-07-31, paskelbta TAR 2020-08-03, i. k. 2020-16809
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+Nr. V-1006, 2023-09-15, paskelbta TAR 2023-09-15, i. k. 2023-18232
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+ 
+
+formą Nr. 025/a-LK „Asmens ambulatorinio gydymo apskaitos kortelė" (pak. V-273)
+
+Papildyta priedu:
+
+Nr. V-1017, 2014-09-29, paskelbta TAR 2014-10-20, i. k. 2014-14378
+
+Priedo pakeitimai:
+
+Nr. V-1419, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21115
+
+Nr. V-1737, 2020-07-31, paskelbta TAR 2020-08-03, i. k. 2020-16809
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+Nr. V-671, 2023-06-13, paskelbta TAR 2023-06-13, i. k. 2023-11699
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+ 
+
+ 
+
+ 
+
+Pakeitimai:
+
+ 
+
+1.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-79, 2004-02-20, Žin., 2004, Nr. 32-1030 (2004-02-28), i. k. 1042250ISAK0000V-79
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro įsakymų pakeitimo
+
+ 
+
+2.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-728, 2004-10-20, Žin., 2004, Nr. 155-5668 (2004-10-23), i. k. 1042250ISAK000V-728
+
+Dėl sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 "Dėl medicininės apskaitos dokumentų formų tvirtinimo" pakeitimo
+
+ 
+
+3.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-782, 2004-11-11, Žin., 2004, Nr. 167-6151 (2004-11-17), i. k. 1042250ISAK000V-782
+
+Dėl sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 "Dėl medicininės apskaitos dokumentų formų tvirtinimo" papildymo
+
+ 
+
+4.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-341, 2006-04-27, Žin., 2006, Nr. 48-1746 (2006-04-29), i. k. 1062250ISAK000V-341
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 "Dėl medicininės apskaitos dokumentų formų tvirtinimo" pakeitimo
+
+ 
+
+5.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-545, 2006-06-28, Žin., 2006, Nr. 75-2891 (2006-07-05), i. k. 1062250ISAK000V-545
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 "Dėl medicininės apskaitos dokumentų formų tvirtinimo" pakeitimo
+
+ 
+
+6.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-532, 2011-05-26, Žin., 2011, Nr. 65-3053 (2011-05-28), i. k. 1112250ISAK000V-532
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 "Dėl medicininės apskaitos dokumentų formų tvirtinimo" pakeitimo
+
+ 
+
+7.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-833, 2011-09-05, Žin., 2011, Nr. 112-5277 (2011-09-10), i. k. 1112250ISAK000V-833
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 "Dėl medicininės apskaitos dokumentų formų tvirtinimo" pakeitimo
+
+ 
+
+8.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-1106, 2011-12-23, Žin., 2011, Nr. 162-7695 (2011-12-30), i. k. 1112250ISAK00V-1106
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 "Dėl medicininės apskaitos dokumentų formų tvirtinimo" pakeitimo
+
+ 
+
+9.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-161, 2012-02-28, Žin., 2012, Nr. 27-1230 (2012-03-03), i. k. 1122250ISAK000V-161
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 "Dėl medicininės apskaitos dokumentų formų tvirtinimo" pakeitimo
+
+ 
+
+10.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-881, 2012-09-20, Žin., 2012, Nr. 111-5650 (2012-09-26), i. k. 1122250ISAK000V-881
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 "Dėl medicininės apskaitos dokumentų formų tvirtinimo" pakeitimo
+
+ 
+
+11.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-39, 2013-01-15, Žin., 2013, Nr. 8-336 (2013-01-22), i. k. 1132250ISAK0000V-39
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 "Dėl medicininės apskaitos dokumentų formų tvirtinimo" pakeitimo
+
+ 
+
+12.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-483, 2013-05-13, Žin., 2013, Nr. 52-2608 (2013-05-21), i. k. 1132250ISAK000V-483
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 "Dėl medicininės apskaitos dokumentų formų tvirtinimo" pakeitimo
+
+ 
+
+13.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-711, 2013-07-22, Žin., 2013, Nr. 82-4092 (2013-07-27), i. k. 1132250ISAK000V-711
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 "Dėl medicininės apskaitos dokumentų formų tvirtinimo" pakeitimo
+
+ 
+
+14.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-965, 2013-10-21, Žin., 2013, Nr. 112-5595 (2013-10-26), i. k. 1132250ISAK000V-965
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 "Dėl medicininės apskaitos dokumentų formų tvirtinimo" pakeitimo
+
+ 
+
+15.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-705, 2014-06-16, paskelbta TAR 2014-06-18, i. k. 2014-07740
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 "Dėl medicininės apskaitos dokumentų formų tvirtinimo" pakeitimo
+
+ 
+
+16.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-1017, 2014-09-29, paskelbta TAR 2014-10-20, i. k. 2014-14378
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 „Dėl medicininės apskaitos dokumentų formų tvirtinimo“ pakeitimo
+
+ 
+
+17.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-1419, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21115
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2014 m. rugsėjo 29 d. įsakymo Nr.V-1017 „Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 "Dėl medicininės apskaitos dokumentų formų tvirtinimo" pakeitimo" pakeitimo
+
+ 
+
+18.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-1417, 2015-12-07, paskelbta TAR 2015-12-10, i. k. 2015-19630
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 „Dėl Medicininės apskaitos dokumentų formų tvirtinimo“ pakeitimo
+
+ 
+
+19.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-1507, 2015-12-28, paskelbta TAR 2015-12-31, i. k. 2015-21304
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 „Dėl medicininės apskaitos dokumentų formų tvirtinimo“ pakeitimo
+
+ 
+
+20.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-402, 2016-03-25, paskelbta TAR 2016-04-11, i. k. 2016-08642
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 „Dėl medicininės apskaitos dokumentų formų tvirtinimo" pakeitimo
+
+ 
+
+21.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-1127, 2016-09-30, paskelbta TAR 2016-10-03, i. k. 2016-24433
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 „Dėl medicininės apskaitos dokumentų formų tvirtinimo“ pakeitimo
+
+ 
+
+22.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-1298, 2016-11-18, paskelbta TAR 2016-11-24, i. k. 2016-27388
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 „Dėl medicininės apskaitos dokumentų formų tvirtinimo“ pakeitimo
+
+ 
+
+23.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-1351, 2016-12-01, paskelbta TAR 2016-12-05, i. k. 2016-28249
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 „Dėl medicininės apskaitos dokumentų formų tvirtinimo“ pakeitimo
+
+ 
+
+24.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-393, 2017-04-06, paskelbta TAR 2017-04-10, i. k. 2017-06085
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 „Dėl medicininės apskaitos dokumentų formų tvirtinimo“ pakeitimo
+
+ 
+
+25.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-639, 2018-05-31, paskelbta TAR 2018-06-01, i. k. 2018-09030
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 „Dėl medicininės apskaitos dokumentų formų tvirtinimo“ pakeitimo
+
+ 
+
+26.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-1051, 2019-09-06, paskelbta TAR 2019-09-09, i. k. 2019-14351
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 „Dėl Medicininės apskaitos dokumentų formų tvirtinimo“ pakeitimo
+
+ 
+
+27.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-1627, 2020-07-09, paskelbta TAR 2020-07-15, i. k. 2020-15787
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 „Dėl medicininės apskaitos dokumentų formų tvirtinimo“ pakeitimo
+
+ 
+
+28.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-1737, 2020-07-31, paskelbta TAR 2020-08-03, i. k. 2020-16809
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 „Dėl medicininės apskaitos dokumentų formų tvirtinimo“ pakeitimo
+
+ 
+
+29.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-83, 2021-01-15, paskelbta TAR 2021-01-15, i. k. 2021-00678
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 „Dėl medicininės apskaitos dokumentų formų tvirtinimo“ pakeitimo
+
+ 
+
+30.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-908, 2021-04-23, paskelbta TAR 2021-04-23, i. k. 2021-08439
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 „Dėl medicininės apskaitos dokumentų formų tvirtinimo“ pakeitimo
+
+ 
+
+31.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-475, 2023-04-21, paskelbta TAR 2023-04-21, i. k. 2023-07787
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 „Dėl medicininės apskaitos dokumentų formų tvirtinimo“ pakeitimo
+
+ 
+
+32.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-671, 2023-06-13, paskelbta TAR 2023-06-13, i. k. 2023-11699
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 „Dėl medicininės apskaitos dokumentų formų tvirtinimo“ pakeitimo
+
+ 
+
+33.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-1006, 2023-09-15, paskelbta TAR 2023-09-15, i. k. 2023-18232
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 „Dėl medicininės apskaitos dokumentų formų tvirtinimo“ pakeitimo
+
+ 
+
+34.
+
+Lietuvos Respublikos sveikatos apsaugos ministerija, Įsakymas
+
+Nr. V-273, 2024-03-01, paskelbta TAR 2024-03-01, i. k. 2024-03870
+
+Dėl Lietuvos Respublikos sveikatos apsaugos ministro 1998 m. lapkričio 26 d. įsakymo Nr. 687 „Dėl medicininės apskaitos dokumentų formų tvirtinimo“ pakeitimo
+
+ 
+
+ 
